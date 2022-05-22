@@ -1,0 +1,1379 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1920" height="1080" fill="#9C9C9C"/>
+<g id="clip" clip-path="url(#clip0_0_1)">
+
+<rect class = "bleu" id = "fond" width="1920" height="1080" />
+<path id="support" d="M1063.5 679C1063.5 681.066 1061.84 683.228 1058.28 685.427C1054.76 687.606 1049.53 689.726 1042.76 691.755C1029.21 695.811 1009.58 699.47 985.295 702.546C936.733 708.695 869.63 712.5 795.5 712.5C721.37 712.5 654.267 708.695 605.705 702.546C581.42 699.47 561.791 695.811 548.243 691.755C541.466 689.726 536.24 687.606 532.718 685.427C529.164 683.228 527.5 681.066 527.5 679C527.5 676.934 529.164 674.772 532.718 672.573C536.24 670.394 541.466 668.274 548.243 666.245C561.791 662.189 581.42 658.53 605.705 655.454C654.267 649.305 721.37 645.5 795.5 645.5C869.63 645.5 936.733 649.305 985.295 655.454C1009.58 658.53 1029.21 662.189 1042.76 666.245C1049.53 668.274 1054.76 670.394 1058.28 672.573C1061.84 674.772 1063.5 676.934 1063.5 679Z" fill="black" fill-opacity="0.2"/>
+<g id="balle">
+<circle class="jaune" id="boule" cx="1454.5" cy="644.5" r="82.5" />
+</g>
+<g id="balle2">
+<circle class="jaune" id="boule2" cx="316.5" cy="536.5" r="82.5" fill="#FFF500"/>
+</g>
+<g id="balle3">
+<circle class="jaune" id="boule3" cx="1144.16" cy="484.504" r="82.5" fill="#FFF500"/>
+</g>
+
+<g id="balle4">
+<circle class="jaune" id="boule4" cx="1647.64" cy="343.37" r="82.5" fill="#FFF500"/>
+</g>
+
+<g id="balle5">
+<circle class="jaune" id="boule5" cx="617.167" cy="856.78" r="82.5" fill="#FFF500"/>
+</g>
+
+
+
+<path id="tache" d="M1236.41 776.493C1249.61 846.493 1329.41 800.493 1416.41 776.493C1472.91 768.493 1473.91 821.493 1525.91 821.493C1590.91 821.493 1525.91 745.993 1562.41 713.493C1598.91 680.993 1667.41 753.493 1714.41 661.993C1761.41 570.493 1634.91 522.993 1579.91 563.493C1524.91 603.993 1513.28 491.532 1467.91 465.493C1410.41 432.493 1321.41 435.493 1294.91 488.493C1268.41 541.493 1353.91 545.493 1353.91 622.993C1353.91 708.993 1219.91 688.993 1236.41 776.493Z" fill="#FFF500" style="visibility:hidden"/>
+<path id="tache2" d="M500.033 754.406C539.5 736 545.582 699.009 511 619.5C497.169 567.097 593.695 470.5 550 417.5C512.489 372 423.018 468.588 383 437.5C342.982 406.412 394.5 346.5 329.773 315.804C227.195 267.158 143.834 406.047 194.5 453.75C245.166 501.452 204.312 539.516 178.5 584.88C145.788 642.373 89.0056 768.904 151.5 788.5C213.994 808.096 223.863 712.34 312 704.5C409.804 695.8 408.394 797.141 500.033 754.406Z" fill="#FFF500" style="visibility:hidden"/>
+<path id="tache3" d="M1342.05 582.451C1365.17 555.521 1354.87 528.213 1280.97 468.811C1240.86 425.127 1307.98 368.795 1278.72 323.633C1242.13 267.181 1200.28 374.464 1145.97 364.644C1019.12 341.709 1074.44 261.721 981.274 277.656C918.296 288.428 839.975 415.762 984.525 486.703C1053.03 520.324 943.935 533.663 945.743 649.954C946.779 716.552 1009.22 772.155 1054.7 745.911C1161.82 684.091 1088.77 658.832 1169.29 606.655C1258.64 548.756 1296.49 635.51 1342.05 582.451Z" fill="#FFF500"  style="visibility:hidden"/>
+<path id="tache4" d="M1831.17 561.276C1870.64 542.87 1876.72 505.879 1842.14 426.37C1828.31 373.967 1924.83 277.37 1881.14 224.37C1843.63 178.87 1754.16 275.458 1714.14 244.37C1674.12 213.282 1725.64 153.37 1660.91 122.674C1558.33 74.0283 1474.97 212.917 1525.64 260.62C1576.3 308.322 1535.45 346.386 1509.64 391.75C1476.92 449.243 1420.14 575.774 1482.64 595.37C1545.13 614.966 1555 519.21 1643.14 511.37C1740.94 502.67 1739.53 604.011 1831.17 561.276Z" fill="#FFF500" style="visibility:hidden"/>
+<path id="tache5" d="M470.582 913.463C514.829 1001.12 478.14 1026.79 490.504 1071.38C501.166 1109.83 553.665 1109.74 586.981 1066.35C616.399 1028.03 587.16 972.963 637.022 963.562C684.356 954.637 689.313 1016.35 725.034 1039C771.6 1064.06 796.365 1045.36 817.843 1008.53C847.545 957.584 705.437 920.358 719.525 871.681C733.613 823.004 808.328 848.718 812.916 777.229C820.185 663.933 660.316 637.835 634.729 702.549C609.141 767.262 558.669 743.377 506.975 736.169C441.462 727.033 354.334 737.521 338.114 788.839C300.953 906.412 430.709 834.471 470.582 913.463Z" fill="#FFF500" style="visibility:hidden"/>
+<path class="jaune" id="tache6" d="M470.582 913.463C514.829 1001.12 478.14 1026.79 490.504 1071.38C501.166 1109.83 553.665 1109.74 586.981 1066.35C616.399 1028.03 587.16 972.963 637.022 963.562C684.356 954.637 689.313 1016.35 725.034 1039C771.6 1064.06 796.365 1045.36 817.843 1008.53C847.545 957.584 705.437 920.358 719.525 871.681C733.613 823.004 808.328 848.718 812.916 777.229C820.185 663.933 660.316 637.835 634.729 702.549C609.141 767.262 558.669 743.377 506.975 736.169C441.462 727.033 354.334 737.521 338.114 788.839C300.953 906.412 430.709 834.471 470.582 913.463Z" fill="#FFF500" />
+<path class="jaune" id="tache7" d="M470.582 913.463C514.829 1001.12 478.14 1026.79 490.504 1071.38C501.166 1109.83 553.665 1109.74 586.981 1066.35C616.399 1028.03 587.16 972.963 637.022 963.562C684.356 954.637 689.313 1016.35 725.034 1039C771.6 1064.06 796.365 1045.36 817.843 1008.53C847.545 957.584 705.437 920.358 719.525 871.681C733.613 823.004 808.328 848.718 812.916 777.229C820.185 663.933 660.316 637.835 634.729 702.549C609.141 767.262 558.669 743.377 506.975 736.169C441.462 727.033 354.334 737.521 338.114 788.839C300.953 906.412 430.709 834.471 470.582 913.463Z" fill="#FFF500" />
+<path class="jaune" id="tache8" d="M470.582 913.463C514.829 1001.12 478.14 1026.79 490.504 1071.38C501.166 1109.83 553.665 1109.74 586.981 1066.35C616.399 1028.03 587.16 972.963 637.022 963.562C684.356 954.637 689.313 1016.35 725.034 1039C771.6 1064.06 796.365 1045.36 817.843 1008.53C847.545 957.584 705.437 920.358 719.525 871.681C733.613 823.004 808.328 848.718 812.916 777.229C820.185 663.933 660.316 637.835 634.729 702.549C609.141 767.262 558.669 743.377 506.975 736.169C441.462 727.033 354.334 737.521 338.114 788.839C300.953 906.412 430.709 834.471 470.582 913.463Z" fill="#FFF500" />
+
+<path id="chemin1" d="M-50 321.5C13.3333 252 167.5 113 277.5 113C415 113 733.5 217.5 785.5 635" stroke="#FF0000" style="visibility:hidden"/>
+<path id="chemin2a" d="M802 632.5C859 539.5 1019.1 353.5 1203.5 353.5C1387.9 353.5 1439.67 513.833 1442.5 594" stroke="#FF0000" style="visibility:hidden"/>
+<path id="chemin2b" d="M796 634C823.667 567.333 831.6 427.9 642 403.5C452.4 379.1 394.667 449.333 389.5 487.5" stroke="#CE2929" style="visibility:hidden"/>
+<path id="chemin2c" d="M793.5 631.5C807.667 496.667 758.5 368.582 896.5 300C1034.5 231.418 1067.83 446.833 1118.5 469" stroke="#FF0000" style="visibility:hidden" />
+<path id="chemin2d" d="M793.5 631.5C807.667 496.667 1037.16 199.22 1262.5 188C1503.5 176 1641.83 380.833 1692.5 403" stroke="#FF0000" style="visibility:hidden"/>
+<path id="chemin2e" d="M792.5 637.5C801.5 542.167 845.547 290.182 748.5 271.5C548.5 233 570 790.5 548.5 802.5" stroke="#FF0000" style="visibility:hidden"/>
+
+
+<rect class="jaune" id="bgy" width="1920" height="1080" fill="#FFF500" opacity="0"/>
+
+<path class = "strokeB" id="corde1" d="M959 2.5V1077.5" stroke="#123CD1" stroke-width="0"/>
+<path id="corde2" d="M960.5 0C960.5 0 977.926 129.281 969 211C963.356 262.668 937.268 289.525 937 341.5C936.724 395.013 953.3 423.473 960.5 476.5C978.669 610.309 986.119 687.464 974.5 822C970.382 869.681 964.5 889 958.5 943.5C952.5 998 958.5 1075.5 958.5 1075.5" stroke="#123CD1" style="visibility:hidden" stroke-width="0"/>
+<path id="corde3" d="M961 3C961 3 958.073 75.3156 961 121.5C964.543 177.39 984.549 207.611 981 263.5C978.549 302.1 961 360.5 961 360.5C961 360.5 929.437 482.051 943 558.5C947.667 584.805 952.935 599.03 961 624.5C972.998 662.39 1009.53 681.62 997.5 719.5C989.55 744.538 954.558 743.311 952.5 769.5C950.471 795.314 982.975 800.099 988 825.5C994.723 859.484 961 910 961 910C961 910 941.486 970.534 944.5 1010C946.566 1037.06 961 1077.5 961 1077.5" stroke="#123CD1" style="visibility:hidden" stroke-width="0"/>
+
+
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1920" height="1080" fill="white"/>
+</clipPath>
+</defs>
+
+<circle class="jaune" id="cercle-jaune" cx="959.5" cy="540.5" r="537.5" fill="#FFF500"/>
+
+
+<circle class = "bleu" id="cercle-bleu" cx="959.5" cy="540.5" r="388.5" fill="#123CD1"/>
+
+<circle class="jaune" id="cercle-jaune-2" cx="959.5" cy="540.5" r="388.5" fill="#FFF500"/>
+
+<circle class = "bleu" id="cercle-bleu-2" cx="959.5" cy="540.5" r="388.5" fill="#123CD1"/>
+
+<circle class="jaune" id="cercle-jaune-3" cx="959.5" cy="540.5" r="388.5" fill="#FFF500"/>
+
+
+<circle class = "strokeB" id="halo-1" cx="959.5" cy="540.5" r="517.5" stroke="#123CD1" stroke-width="40"/>
+
+<circle class = "strokeB" id="halo-2" cx="959.5" cy="540.5" r="517.5" stroke="#123CD1" stroke-width="40"/>
+
+<circle class = "strokeB" id="halo-3" cx="959.5" cy="540.5" r="517.5" stroke="#123CD1" stroke-width="40"/>
+
+<circle class = "strokeB" id="halo-4" cx="959.5" cy="540.5" r="517.5" stroke="#123CD1" stroke-width="40" />
+
+<circle class = "strokeB" id="halo-5" cx="959.5" cy="540.5" r="517.5" stroke="#123CD1" stroke-width="40" />
+
+<circle class = "strokeB" id="halo-6" cx="959.5" cy="540.5" r="517.5" stroke="#123CD1" stroke-width="40" />
+
+<circle class = "strokeB" id="halo-7" cx="959.5" cy="540.5" r="517.5" stroke="#123CD1" stroke-width="40" />
+
+<circle class = "strokeB" id="halo-8" cx="959.5" cy="540.5" r="517.5" stroke="#123CD1" stroke-width="40" />
+
+<circle class = "strokeB"  id="halo-9" cx="959.5" cy="540.5" r="517.5" stroke="#123CD1" stroke-width="40" />
+
+
+<circle class = "bleu" id="cercle-bleu-3" cx="959.5" cy="540.5" r="388.5" fill="#123CD1"/>
+
+
+<rect class="jaune" id="bande-1" x="-500" y="335" width="2420" height="108" fill="#FFF500"/>
+<rect class="jaune" id="bande-2" x="0" y="680" width="2420" height="108" fill="#FFF500" />
+
+<rect class="jaune" id="bande-v-1" x="400" y="-500" width="108" height="1080"  fill="#FFF500"/>
+<rect class="jaune" id="bande-v-2" x="905" y="500" width="108" height="1080"  fill="#FFF500"/>
+<rect class="jaune" id="bande-v-3" x="1410" y="-500" width="108" height="1080"  fill="#FFF500"/>
+
+
+
+
+<circle class="jaune" id="gc1" cx="305" cy="323" r="150" fill="#FFF500"/>
+<circle class="jaune" id="gc2" cx="678" cy="840" r="150" fill="#FFF500"/>
+<circle class="jaune" id="gc3" cx="1034" cy="451" r="150" fill="#FFF500"/>
+<circle class="jaune" id="gc4" cx="1537" cy="219" r="150" fill="#FFF500"/>
+<circle class="jaune" id="gc5" cx="1628" cy="901" r="150" fill="#FFF500"/>
+<circle class="jaune" id="gc6" cx="201" cy="880" r="150" fill="#FFF500"/>
+<circle class="jaune" id="gc7" cx="753" cy="192" r="150" fill="#FFF500"/>
+<circle class="jaune" id="gc8" cx="1738" cy="548" r="150" fill="#FFF500"/>
+
+
+
+<circle class = "bleu" id="pc1" cx="305" cy="323" r="75" fill="#123CD1"/>
+<circle class = "bleu" id="pc2" cx="678" cy="840" r="75" fill="#123CD1"/>
+<circle class = "bleu" id="pc3" cx="1034" cy="451" r="75" fill="#123CD1"/>
+<circle class = "bleu" id="pc4" cx="1537" cy="219" r="75" fill="#123CD1"/>
+<circle class = "bleu" id="pc5" cx="1628" cy="901" r="75" fill="#123CD1"/>
+<circle class = "bleu" id="pc6" cx="201" cy="880" r="75" fill="#123CD1"/>
+<circle class = "bleu" id="pc7" cx="753" cy="192" r="75" fill="#123CD1"/>
+<circle class = "bleu" id="pc8" cx="1738" cy="548" r="75" fill="#123CD1"/>
+
+
+
+
+
+<rect class = "bleu" id="colonne1" x="326" y="-1080" width="72" height="1080" fill="#123CD1"/>
+<rect class = "bleu" id="colonne2" x="726" y="1080" width="70" height="1080" fill="#123CD1"/>
+<rect class = "bleu" id="colonne3" x="1123" y="-1080" width="71" height="1080" fill="#123CD1"/>
+<rect class = "bleu" id="colonne4" x="1520" y="1080" width="72" height="1080" fill="#123CD1"/>
+
+
+<rect class = "bleu" id="rang1g" x="-960" y="314" width="960" height="69" fill="#123CD1"/>
+<rect class = "bleu" id="rang2g" x="-960" y="698" width="960" height="69" fill="#123CD1"/>
+
+
+<rect class = "bleu" id="rang1d" x="1920" y="314" width="960" height="69" fill="#123CD1"/>
+<rect class = "bleu" id="rang2d" x="1920" y="698" width="960" height="69" fill="#123CD1"/>
+
+
+
+<g id="rgrille">
+<rect class = "bleu" id="bgbleu" width="1920" height="1080" fill="#123CD1"/>
+<rect class="jaune" id="r00" width="326" height="314" fill="#FFF500"/>
+<rect class="jaune" id="r01" y="383" width="326" height="315" fill="#FFF500"/>
+<rect class="jaune" id="r02" y="765" width="326" height="315" fill="#FFF500"/>
+<rect class="jaune" id="r10" x="398" width="328" height="314" fill="#FFF500"/>
+<rect class="jaune" id="r11" x="398" y="383" width="328" height="315" fill="#FFF500"/>
+<rect class="jaune" id="r12" x="398" y="765" width="328" height="315" fill="#FFF500"/>
+<rect class="jaune" id="r20" x="796" width="327" height="314" fill="#FFF500"/>
+<rect class="jaune" id="r21" x="796" y="383" width="327" height="315" fill="#FFF500"/>
+<rect class="jaune" id="r22" x="796" y="765" width="327" height="315" fill="#FFF500"/>
+<rect class="jaune" id="r30" x="1194" width="326" height="314" fill="#FFF500"/>
+<rect class="jaune" id="r31" x="1194" y="383" width="326" height="315" fill="#FFF500"/>
+<rect class="jaune" id="r32" x="1194" y="765" width="326" height="315" fill="#FFF500"/>
+<rect class="jaune" id="r40" x="1592" width="328" height="314" fill="#FFF500"/>
+<rect class="jaune" id="r41" x="1592" y="383" width="328" height="315" fill="#FFF500"/>
+<rect class="jaune" id="r42" x="1592" y="765" width="328" height="315" fill="#FFF500"/>
+</g>
+
+
+
+
+<g id="petitscarres">
+<rect class="bleu" id="fondbleu" width="1920" height="1080" fill="#123CD1"/>
+
+<g id="petitegrille">
+<rect class="jaune" id="c0.0" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0" y="79" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0" y="158" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0" y="237" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1" x="82" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1" x="82" y="79" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1" x="82" y="158" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1" x="82" y="237" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2" x="164" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2" x="164" y="79" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2" x="164" y="158" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3" x="164" y="237" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3" x="245" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3" x="245" y="79" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_2" x="245" y="158" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3" x="245" y="237" width="82" height="79" fill="#FFF500"/>
+
+
+<rect class="jaune" id="c0.0_2" x="397" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_2" x="397" y="79" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_2" x="397" y="158" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_2" x="397" y="237" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_2" x="479" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_2" x="479" y="79" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_2" x="479" y="158" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_2" x="479" y="237" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_2" x="561" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_2" x="561" y="79" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_2" x="561" y="158" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_3" x="561" y="237" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_2" x="642" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_2" x="642" y="79" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_4" x="642" y="158" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_2" x="642" y="237" width="82" height="79" fill="#FFF500"/>
+
+<rect class="jaune" id="c0.0_3" x="796" y="-2" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_3" x="796" y="77" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_3" x="796" y="156" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_3" x="796" y="235" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_3" x="878" y="-2" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_3" x="878" y="77" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_3" x="878" y="156" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_3" x="878" y="235" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_3" x="960" y="-2" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_3" x="960" y="77" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_3" x="960" y="156" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_5" x="960" y="235" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_3" x="1041" y="-2" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_3" x="1041" y="77" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_6" x="1041" y="156" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_3" x="1041" y="235" width="82" height="79" fill="#FFF500"/>
+
+<rect class="jaune" id="c0.0_4" x="1194" y="-2" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_4" x="1194" y="77" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_4" x="1194" y="156" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_4" x="1194" y="235" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_4" x="1276" y="-2" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_4" x="1276" y="77" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_4" x="1276" y="156" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_4" x="1276" y="235" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_4" x="1358" y="-2" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_4" x="1358" y="77" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_4" x="1358" y="156" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_7" x="1358" y="235" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_4" x="1439" y="-2" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_4" x="1439" y="77" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_8" x="1439" y="156" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_4" x="1439" y="235" width="82" height="79" fill="#FFF500"/>
+
+<rect class="jaune" id="c0.0_5" x="1592" y="-2" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_5" x="1592" y="77" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_5" x="1592" y="156" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_5" x="1592" y="235" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_5" x="1674.25" y="-2" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_5" x="1674.25" y="77" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_5" x="1674.25" y="156" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_5" x="1674.25" y="235" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_5" x="1756.5" y="-2" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_5" x="1756.5" y="77" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_5" x="1756.5" y="156" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_9" x="1756.5" y="235" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_5" x="1837.75" y="-2" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_5" x="1837.75" y="77" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_10" x="1837.75" y="156" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_5" x="1837.75" y="235" width="82.2508" height="79" fill="#FFF500"/>
+
+<rect class="jaune" id="c0.0_6" x="-1" y="382" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_6" x="-1" y="461" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_6" x="-1" y="540" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_6" x="-1" y="619" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_6" x="81" y="382" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_6" x="81" y="461" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_6" x="81" y="540" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_6" x="81" y="619" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_6" x="163" y="382" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_6" x="163" y="461" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_6" x="163" y="540" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_11" x="163" y="619" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_6" x="244" y="382" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_6" x="244" y="461" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_12" x="244" y="540" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_6" x="244" y="619" width="82" height="79" fill="#FFF500"/>
+
+<rect class="jaune" id="c0.0_7" x="398" y="382" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_7" x="398" y="461" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_7" x="398" y="540" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_7" x="398" y="619" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_7" x="480.251" y="382" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_7" x="480.251" y="461" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_7" x="480.251" y="540" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_7" x="480.251" y="619" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_7" x="562.501" y="382" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_7" x="562.501" y="461" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_7" x="562.501" y="540" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_13" x="562.501" y="619" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_7" x="643.749" y="382" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_7" x="643.749" y="461" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_14" x="643.749" y="540" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_7" x="643.749" y="619" width="82.2508" height="79" fill="#FFF500"/>
+
+<rect class="jaune" id="c0.0_8" x="796" y="382" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_8" x="796" y="461" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_8" x="796" y="540" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_8" x="796" y="619" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_8" x="878" y="382" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_8" x="878" y="461" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_8" x="878" y="540" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_8" x="878" y="619" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_8" x="960" y="382" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_8" x="960" y="461" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_8" x="960" y="540" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_15" x="960" y="619" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_8" x="1041" y="382" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_8" x="1041" y="461" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_16" x="1041" y="540" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_8" x="1041" y="619" width="82" height="79" fill="#FFF500"/>
+
+<rect class="jaune" id="c0.0_9" x="1194" y="383" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_9" x="1194" y="461.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_9" x="1194" y="540.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_9" x="1194" y="619.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_9" x="1275.75" y="383" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_9" x="1275.75" y="461.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_9" x="1275.75" y="540.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_9" x="1275.75" y="619.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_9" x="1357.5" y="383" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_9" x="1357.5" y="461.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_9" x="1357.5" y="540.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_17" x="1357.5" y="619.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_9" x="1438.25" y="383" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_9" x="1438.25" y="461.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_18" x="1438.25" y="540.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_9" x="1438.25" y="619.25" width="81.7492" height="78.75" fill="#FFF500"/>
+
+<rect class="jaune" id="c0.0_10" x="1592" y="383" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_10" x="1592" y="461.75" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_10" x="1592" y="540.5" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_10" x="1592" y="619.25" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_10" x="1674.25" y="383" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_10" x="1674.25" y="461.75" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_10" x="1674.25" y="540.5" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_10" x="1674.25" y="619.25" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_10" x="1756.5" y="383" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_10" x="1756.5" y="461.75" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_10" x="1756.5" y="540.5" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_19" x="1756.5" y="619.25" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_10" x="1837.75" y="383" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_10" x="1837.75" y="461.75" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_20" x="1837.75" y="540.5" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_10" x="1837.75" y="619.25" width="82.2508" height="78.75" fill="#FFF500"/>
+
+<rect class="jaune" id="c0.0_11" y="765" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_11" y="843.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_11" y="922.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_11" y="1001.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_11" x="81.7493" y="765" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_11" x="81.7493" y="843.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_11" x="81.7493" y="922.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_11" x="81.7493" y="1001.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_11" x="163.499" y="765" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_11" x="163.499" y="843.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_11" x="163.499" y="922.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_21" x="163.499" y="1001.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_11" x="244.251" y="765" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_11" x="244.251" y="843.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_22" x="244.251" y="922.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_11" x="244.251" y="1001.25" width="81.7492" height="78.75" fill="#FFF500"/>
+
+<rect class="jaune" id="c0.0_12" x="398" y="765" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_12" x="398" y="843.75" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_12" x="398" y="922.5" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_12" x="398" y="1001.25" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_12" x="480.251" y="765" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_12" x="480.251" y="843.75" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_12" x="480.251" y="922.5" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_12" x="480.251" y="1001.25" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_12" x="562.501" y="765" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_12" x="562.501" y="843.75" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_12" x="562.501" y="922.5" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_23" x="562.501" y="1001.25" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_12" x="643.749" y="765" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_12" x="643.749" y="843.75" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_24" x="643.749" y="922.5" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_12" x="643.749" y="1001.25" width="82.2508" height="78.75" fill="#FFF500"/>
+
+<rect class="jaune" id="c0.0_13" x="796" y="765" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_13" x="796" y="843.75" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_13" x="796" y="922.5" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_13" x="796" y="1001.25" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_13" x="878" y="765" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_13" x="878" y="843.75" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_13" x="878" y="922.5" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_13" x="878" y="1001.25" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_13" x="960" y="765" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_13" x="960" y="843.75" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_13" x="960" y="922.5" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_25" x="960" y="1001.25" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_13" x="1041" y="765" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_13" x="1041" y="843.75" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_26" x="1041" y="922.5" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_13" x="1041" y="1001.25" width="82" height="78.75" fill="#FFF500"/>
+
+<rect class="jaune" id="c0.0_14" x="1194" y="765" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_14" x="1194" y="843.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_14" x="1194" y="922.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_14" x="1194" y="1001.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_14" x="1275.75" y="765" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_14" x="1275.75" y="843.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_14" x="1275.75" y="922.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_14" x="1275.75" y="1001.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_14" x="1357.5" y="765" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_14" x="1357.5" y="843.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_14" x="1357.5" y="922.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_27" x="1357.5" y="1001.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_14" x="1438.25" y="765" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_14" x="1438.25" y="843.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_28" x="1438.25" y="922.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_14" x="1438.25" y="1001.25" width="81.7492" height="78.75" fill="#FFF500"/>
+
+<rect class="jaune" id="c0.0_15" x="1590" y="765" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_15" x="1590" y="844" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_15" x="1590" y="923" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_15" x="1590" y="1002" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_15" x="1672.75" y="765" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_15" x="1672.75" y="844" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_15" x="1672.75" y="923" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_15" x="1672.75" y="1002" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_15" x="1755.5" y="765" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_15" x="1755.5" y="844" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_15" x="1755.5" y="923" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_29" x="1755.5" y="1002" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_15" x="1837.25" y="765" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_15" x="1837.25" y="844" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_30" x="1837.25" y="923" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_15" x="1837.25" y="1002" width="82.7523" height="79" fill="#FFF500"/>
+</g>
+</g>
+
+
+
+
+<g id="petitscarres2">
+<g id="R00">
+<rect class="jaune" id="c0.0" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0" y="79" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0" y="158" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0" y="237" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1" x="82" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1" x="82" y="79" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1" x="82" y="158" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1" x="82" y="237" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2" x="164" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2" x="164" y="79" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2" x="164" y="158" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3" x="164" y="237" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3" x="245" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3" x="245" y="79" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_2" x="245" y="158" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3" x="245" y="237" width="82" height="79" fill="#FFF500"/>
+</g>
+<g id="R01">
+<rect class="jaune" id="c0.0_2" x="397" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_2" x="397" y="79" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_2" x="397" y="158" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_2" x="397" y="237" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_2" x="479" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_2" x="479" y="79" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_2" x="479" y="158" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_2" x="479" y="237" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_2" x="561" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_2" x="561" y="79" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_2" x="561" y="158" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_3" x="561" y="237" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_2" x="642" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_2" x="642" y="79" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_4" x="642" y="158" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_2" x="642" y="237" width="82" height="79" fill="#FFF500"/>
+</g>
+<g id="R02">
+<rect class="jaune" id="c0.0_3" x="796" y="-2" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_3" x="796" y="77" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_3" x="796" y="156" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_3" x="796" y="235" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_3" x="878" y="-2" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_3" x="878" y="77" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_3" x="878" y="156" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_3" x="878" y="235" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_3" x="960" y="-2" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_3" x="960" y="77" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_3" x="960" y="156" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_5" x="960" y="235" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_3" x="1041" y="-2" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_3" x="1041" y="77" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_6" x="1041" y="156" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_3" x="1041" y="235" width="82" height="79" fill="#FFF500"/>
+</g>
+<g id="R03">
+<rect class="jaune" id="c0.0_4" x="1194" y="-2" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_4" x="1194" y="77" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_4" x="1194" y="156" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_4" x="1194" y="235" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_4" x="1276" y="-2" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_4" x="1276" y="77" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_4" x="1276" y="156" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_4" x="1276" y="235" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_4" x="1358" y="-2" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_4" x="1358" y="77" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_4" x="1358" y="156" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_7" x="1358" y="235" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_4" x="1439" y="-2" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_4" x="1439" y="77" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_8" x="1439" y="156" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_4" x="1439" y="235" width="82" height="79" fill="#FFF500"/>
+</g>
+<g id="R04">
+<rect class="jaune" id="c0.0_5" x="1592" y="-2" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_5" x="1592" y="77" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_5" x="1592" y="156" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_5" x="1592" y="235" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_5" x="1674.25" y="-2" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_5" x="1674.25" y="77" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_5" x="1674.25" y="156" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_5" x="1674.25" y="235" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_5" x="1756.5" y="-2" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_5" x="1756.5" y="77" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_5" x="1756.5" y="156" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_9" x="1756.5" y="235" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_5" x="1837.75" y="-2" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_5" x="1837.75" y="77" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_10" x="1837.75" y="156" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_5" x="1837.75" y="235" width="82.2508" height="79" fill="#FFF500"/>
+</g>
+
+<g id="C1">
+<g id="R10">
+<rect class="jaune" id="c0.0_6" x="-1" y="382" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_6" x="-1" y="461" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_6" x="-1" y="540" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_6" x="-1" y="619" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_6" x="81" y="382" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_6" x="81" y="461" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_6" x="81" y="540" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_6" x="81" y="619" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_6" x="163" y="382" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_6" x="163" y="461" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_6" x="163" y="540" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_11" x="163" y="619" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_6" x="244" y="382" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_6" x="244" y="461" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_12" x="244" y="540" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_6" x="244" y="619" width="82" height="79" fill="#FFF500"/>
+</g>
+<g id="R11">
+<rect class="jaune" id="c0.0_7" x="398" y="382" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_7" x="398" y="461" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_7" x="398" y="540" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_7" x="398" y="619" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_7" x="480.251" y="382" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_7" x="480.251" y="461" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_7" x="480.251" y="540" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_7" x="480.251" y="619" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_7" x="562.501" y="382" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_7" x="562.501" y="461" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_7" x="562.501" y="540" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_13" x="562.501" y="619" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_7" x="643.749" y="382" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_7" x="643.749" y="461" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_14" x="643.749" y="540" width="82.2508" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_7" x="643.749" y="619" width="82.2508" height="79" fill="#FFF500"/>
+</g>
+<g id="R12">
+<rect class="jaune" id="c0.0_8" x="796" y="382" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_8" x="796" y="461" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_8" x="796" y="540" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_8" x="796" y="619" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_8" x="878" y="382" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_8" x="878" y="461" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_8" x="878" y="540" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_8" x="878" y="619" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_8" x="960" y="382" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_8" x="960" y="461" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_8" x="960" y="540" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_15" x="960" y="619" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_8" x="1041" y="382" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_8" x="1041" y="461" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_16" x="1041" y="540" width="82" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_8" x="1041" y="619" width="82" height="79" fill="#FFF500"/>
+</g>
+<g id="R13">
+<rect class="jaune" id="c0.0_9" x="1194" y="383" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_9" x="1194" y="461.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_9" x="1194" y="540.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_9" x="1194" y="619.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_9" x="1275.75" y="383" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_9" x="1275.75" y="461.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_9" x="1275.75" y="540.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_9" x="1275.75" y="619.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_9" x="1357.5" y="383" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_9" x="1357.5" y="461.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_9" x="1357.5" y="540.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_17" x="1357.5" y="619.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_9" x="1438.25" y="383" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_9" x="1438.25" y="461.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_18" x="1438.25" y="540.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_9" x="1438.25" y="619.25" width="81.7492" height="78.75" fill="#FFF500"/>
+</g>
+<g id="R14">
+<rect class="jaune" id="c0.0_10" x="1592" y="383" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_10" x="1592" y="461.75" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_10" x="1592" y="540.5" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_10" x="1592" y="619.25" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_10" x="1674.25" y="383" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_10" x="1674.25" y="461.75" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_10" x="1674.25" y="540.5" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_10" x="1674.25" y="619.25" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_10" x="1756.5" y="383" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_10" x="1756.5" y="461.75" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_10" x="1756.5" y="540.5" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_19" x="1756.5" y="619.25" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_10" x="1837.75" y="383" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_10" x="1837.75" y="461.75" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_20" x="1837.75" y="540.5" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_10" x="1837.75" y="619.25" width="82.2508" height="78.75" fill="#FFF500"/>
+</g>
+</g>
+
+<g id="R20">
+<rect class="jaune" id="c0.0_11" y="765" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_11" y="843.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_11" y="922.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_11" y="1001.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_11" x="81.7493" y="765" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_11" x="81.7493" y="843.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_11" x="81.7493" y="922.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_11" x="81.7493" y="1001.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_11" x="163.499" y="765" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_11" x="163.499" y="843.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_11" x="163.499" y="922.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_21" x="163.499" y="1001.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_11" x="244.251" y="765" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_11" x="244.251" y="843.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_22" x="244.251" y="922.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_11" x="244.251" y="1001.25" width="81.7492" height="78.75" fill="#FFF500"/>
+</g>
+<g id="R21">
+<rect class="jaune" id="c0.0_12" x="398" y="765" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_12" x="398" y="843.75" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_12" x="398" y="922.5" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_12" x="398" y="1001.25" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_12" x="480.251" y="765" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_12" x="480.251" y="843.75" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_12" x="480.251" y="922.5" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_12" x="480.251" y="1001.25" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_12" x="562.501" y="765" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_12" x="562.501" y="843.75" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_12" x="562.501" y="922.5" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_23" x="562.501" y="1001.25" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_12" x="643.749" y="765" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_12" x="643.749" y="843.75" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_24" x="643.749" y="922.5" width="82.2508" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_12" x="643.749" y="1001.25" width="82.2508" height="78.75" fill="#FFF500"/>
+</g>
+<g id="R22">
+<rect class="jaune" id="c0.0_13" x="796" y="765" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_13" x="796" y="843.75" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_13" x="796" y="922.5" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_13" x="796" y="1001.25" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_13" x="878" y="765" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_13" x="878" y="843.75" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_13" x="878" y="922.5" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_13" x="878" y="1001.25" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_13" x="960" y="765" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_13" x="960" y="843.75" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_13" x="960" y="922.5" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_25" x="960" y="1001.25" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_13" x="1041" y="765" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_13" x="1041" y="843.75" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_26" x="1041" y="922.5" width="82" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_13" x="1041" y="1001.25" width="82" height="78.75" fill="#FFF500"/>
+</g>
+<g id="R23">
+<rect class="jaune" id="c0.0_14" x="1194" y="765" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_14" x="1194" y="843.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_14" x="1194" y="922.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_14" x="1194" y="1001.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_14" x="1275.75" y="765" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_14" x="1275.75" y="843.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_14" x="1275.75" y="922.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_14" x="1275.75" y="1001.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_14" x="1357.5" y="765" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_14" x="1357.5" y="843.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_14" x="1357.5" y="922.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_27" x="1357.5" y="1001.25" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_14" x="1438.25" y="765" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_14" x="1438.25" y="843.75" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_28" x="1438.25" y="922.5" width="81.7492" height="78.75" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_14" x="1438.25" y="1001.25" width="81.7492" height="78.75" fill="#FFF500"/>
+</g>
+<g id="R24">
+<rect class="jaune" id="c0.0_15" x="1590" y="765" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.0_15" x="1590" y="844" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.0_15" x="1590" y="923" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.0_15" x="1590" y="1002" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="C0.1_15" x="1672.75" y="765" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.1_15" x="1672.75" y="844" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.1_15" x="1672.75" y="923" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.1_15" x="1672.75" y="1002" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.2_15" x="1755.5" y="765" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.2_15" x="1755.5" y="844" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.2_15" x="1755.5" y="923" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_29" x="1755.5" y="1002" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c0.3_15" x="1837.25" y="765" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c1.3_15" x="1837.25" y="844" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c2.3_30" x="1837.25" y="923" width="82.7523" height="79" fill="#FFF500"/>
+<rect class="jaune" id="c3.3_15" x="1837.25" y="1002" width="82.7523" height="79" fill="#FFF500"/>
+</g>
+</g>
+
+
+
+<g id = "credits">
+<path class="jaune" d="M202.8 318.2H200.4V287H205.2V289.4H207.6V294.2H210V299H212.4V301.4H214.8V303.8H217.2V306.2H222V308.6H231.6V311H234V308.6H243.6V306.2H246V303.8H248.4V294.2H246V289.4H241.2V287H236.4V284.6H229.2V282.2H222V279.8H214.8V277.4H210V275H207.6V272.6H205.2V270.2H202.8V267.8H200.4V260.6H198V253.4H200.4V246.2H202.8V241.4H205.2V239H207.6V236.6H210V234.2H214.8V231.8H236.4V234.2H241.2V236.6H243.6V239H246V241.4H248.4V243.8H250.8V239H248.4V236.6H246V234.2H250.8V231.8H258V260.6H253.2V258.2H250.8V253.4H248.4V251H246V248.6H243.6V243.8H238.8V241.4H236.4V239H219.6V241.4H217.2V243.8H214.8V255.8H217.2V258.2H222V260.6H229.2V263H234V265.4H241.2V267.8H248.4V270.2H253.2V272.6H258V275H260.4V279.8H262.8V284.6H265.2V296.6H262.8V301.4H260.4V306.2H258V308.6H255.6V311H250.8V313.4H246V315.8H222V313.4H217.2V311H214.8V308.6H210V306.2H207.6V308.6H210V311H212.4V313.4H207.6V315.8H202.8V318.2Z" fill="#FCEE21"/>
+<path class="jaune" d="M286.8 344.6H277.2V342.2H272.4V339.8H270V327.8H274.8V325.4H277.2V327.8H282V330.2H284.4V335H279.6V337.4H289.2V335H291.6V332.6H294V325.4H296.4V323H298.8V318.2H301.2V308.6H298.8V301.4H296.4V299H294V294.2H291.6V289.4H289.2V284.6H286.8V279.8H284.4V275H282V270.2H279.6V265.4H277.2V263H274.8V260.6H270V255.8H308.4V260.6H301.2V270.2H303.6V275H306V279.8H308.4V284.6H310.8V294.2H313.2V291.8H315.6V287H318V282.2H320.4V277.4H322.8V272.6H325.2V267.8H327.6V265.4H325.2V260.6H318V255.8H342V260.6H339.6V263H337.2V265.4H334.8V270.2H332.4V272.6H330V277.4H327.6V282.2H325.2V287H322.8V291.8H320.4V296.6H318V301.4H315.6V306.2H313.2V308.6H310.8V313.4H308.4V318.2H306V323H303.6V327.8H301.2V332.6H298.8V335H296.4V337.4H294V339.8H291.6V342.2H286.8V344.6V344.6Z" fill="#FCEE21"/>
+<path class="jaune" d="M380.4 315.8H346.8V311H354V308.6H356.4V267.8H354V265.4H349.2V263H346.8V260.6H356.4V258.2H363.6V255.8H373.2V263H370.8V267.8H368.4V270.2H370.8V267.8H373.2V265.4H375.6V263H378V260.6H380.4V258.2H385.2V255.8H402V258.2H404.4V260.6H406.8V263H409.2V270.2H411.6V311H418.8V315.8H385.2V311H392.4V308.6H394.8V272.6H392.4V267.8H390V265.4H378V267.8H375.6V270.2H373.2V311H380.4V315.8V315.8Z" fill="#FCEE21"/>
+<path class="jaune" d="M442.8 263H447.6V301.4H450V306.2H462V303.8H464.4V301.4H466.8V306.2H464.4V308.6H462V313.4H457.2V315.8H438V313.4H435.6V311H433.2V306.2H430.8V260.6H423.6V258.2H426V255.8H428.4V253.4H433.2V251H435.6V248.6H438V246.2H440.4V241.4H442.8V239H445.2V236.6H447.6V255.8H466.8V260.6H442.8V263V263Z" fill="#FCEE21"/>
+<path class="jaune" d="M536.4 311H534V306.2H531.6V301.4H529.2V294.2H526.8V289.4H524.4V284.6H522V287H519.6V291.8H517.2V299H514.8V303.8H512.4V308.6H510V313.4H507.6V315.8H500.4V311H498V306.2H495.6V301.4H493.2V296.6H490.8V291.8H488.4V287H486V279.8H483.6V275H481.2V270.2H478.8V265.4H476.4V263H474V260.6H471.6V255.8H502.8V260.6H498V270.2H500.4V275H502.8V282.2H505.2V287H507.6V299H510V294.2H512.4V289.4H514.8V284.6H517.2V279.8H519.6V272.6H517.2V265.4H514.8V263H512.4V260.6H510V255.8H538.8V260.6H536.4V263H534V267.8H536.4V275H538.8V279.8H541.2V287H543.6V299H546V294.2H548.4V289.4H550.8V284.6H553.2V279.8H555.6V275H558V270.2H560.4V263H558V260.6H550.8V255.8H574.8V260.6H572.4V263H570V265.4H567.6V267.8H565.2V272.6H562.8V279.8H560.4V284.6H558V289.4H555.6V294.2H553.2V299H550.8V303.8H548.4V308.6H546V313.4H543.6V315.8H536.4V311V311Z" fill="#FCEE21"/>
+<path class="jaune" d="M615.6 308.6V303.8H618V301.4H615.6V303.8H613.2V306.2H610.8V308.6H608.4V311H606V313.4H603.6V315.8H596.4V318.2H589.2V315.8H582V313.4H579.6V311H577.2V296.6H579.6V294.2H582V291.8H586.8V289.4H591.6V287H598.8V284.6H606V282.2H613.2V267.8H610.8V265.4H608.4V263H594V265.4H591.6V267.8H594V277.4H591.6V279.8H582V277.4H579.6V267.8H582V263H584.4V260.6H586.8V258.2H594V255.8H615.6V258.2H620.4V260.6H625.2V263H627.6V270.2H630V308.6H637.2V311H634.8V313.4H632.4V315.8H615.6V313.4H613.2V308.6H615.6V308.6ZM603.6 308.6V306.2H608.4V303.8H610.8V301.4H613.2V287H606V289.4H598.8V291.8H596.4V294.2H594V306.2H598.8V308.6H603.6V308.6ZM637.2 308.6V306.2H639.6V308.6H637.2Z" fill="#FCEE21"/>
+<path class="jaune" d="M673.2 315.8H668.4V313.4H666V308.6H663.6V303.8H661.2V299H658.8V294.2H656.4V289.4H654V284.6H651.6V279.8H649.2V275H646.8V270.2H644.4V265.4H642V263H639.6V260.6H634.8V255.8H670.8V260.6H666V263H663.6V267.8H666V272.6H668.4V277.4H670.8V282.2H673.2V287H675.6V294.2H673.2V296.6H678V291.8H680.4V287H682.8V282.2H685.2V277.4H687.6V272.6H690V263H687.6V260.6H682.8V255.8H706.8V260.6H704.4V263H699.6V267.8H697.2V272.6H694.8V277.4H692.4V279.8H690V284.6H687.6V289.4H685.2V294.2H682.8V299H680.4V303.8H678V308.6H675.6V313.4H673.2V315.8V315.8Z" fill="#FCEE21"/>
+<path class="jaune" d="M721.2 284.6V287H726V294.2H728.4V299H730.8V301.4H733.2V303.8H735.6V306.2H754.8V303.8H757.2V301.4H759.6V299H762V301.4H759.6V306.2H757.2V308.6H754.8V311H752.4V313.4H747.6V315.8H742.8V318.2H735.6V315.8H726V313.4H721.2V311H716.4V308.6H714V303.8H711.6V301.4H709.2V291.8H706.8V282.2H709.2V275H711.6V270.2H714V265.4H716.4V263H718.8V260.6H723.6V258.2H728.4V255.8H747.6V258.2H752.4V260.6H754.8V263H757.2V265.4H759.6V267.8H762V275H764.4V284.6H721.2V284.6ZM750 279.8V275H747.6V267.8H745.2V263H740.4V260.6H735.6V263H730.8V265.4H728.4V270.2H726V279.8H750V279.8Z" fill="#FCEE21"/>
+<path class="jaune" d="M829.2 243.8V251H831.6V255.8H834V260.6H836.4V265.4H838.8V272.6H841.2V277.4H843.6V282.2H846V289.4H843.6V291.8H848.4V287H850.8V282.2H853.2V277.4H855.6V270.2H858V265.4H860.4V260.6H862.8V255.8H865.2V251H867.6V243.8H870V241.4H867.6V236.6H860.4V231.8H886.8V236.6H882V239H879.6V241.4H877.2V243.8H874.8V248.6H872.4V255.8H870V260.6H867.6V265.4H865.2V270.2H862.8V275H860.4V282.2H858V287H855.6V291.8H853.2V296.6H850.8V301.4H848.4V308.6H846V313.4H843.6V318.2H838.8V315.8H836.4V311H834V303.8H831.6V299H829.2V294.2H826.8V289.4H824.4V284.6H822V277.4H819.6V272.6H817.2V267.8H814.8V263H812.4V255.8H810V251H807.6V246.2H805.2V241.4H802.8V239H800.4V236.6H795.6V231.8H834V236.6H829.2V239H826.8V243.8H829.2V243.8Z" fill="#FCEE21"/>
+<path class="jaune" d="M918 315.8H884.4V311H891.6V306.2H894V270.2H891.6V265.4H886.8V263H884.4V260.6H891.6V258.2H901.2V255.8H910.8V311H918V315.8V315.8ZM894 229.4H910.8V246.2H894V229.4Z" fill="#FCEE21"/>
+<path class="jaune" d="M937.2 315.8H930V239H927.6V236.6H922.8V231.8H932.4V229.4H942V227H946.8V260.6H944.4V265.4H942V267.8H944.4V265.4H946.8V263H949.2V260.6H951.6V258.2H956.4V255.8H973.2V258.2H978V260.6H980.4V263H982.8V265.4H985.2V267.8H987.6V277.4H990V287H987.6V296.6H985.2V301.4H982.8V303.8H980.4V308.6H975.6V311H973.2V313.4H968.4V315.8H939.6V313.4H937.2V315.8V315.8ZM961.2 311V308.6H966V306.2H968.4V301.4H970.8V294.2H973.2V282.2H970.8V272.6H968.4V267.8H966V265.4H951.6V267.8H946.8V308.6H949.2V311H961.2Z" fill="#FCEE21"/>
+<path class="jaune" d="M1009.19 284.6V287H1013.99V294.2H1016.39V299H1018.79V301.4H1021.19V303.8H1023.59V306.2H1042.79V303.8H1045.19V301.4H1047.59V299H1049.99V301.4H1047.59V306.2H1045.19V308.6H1042.79V311H1040.39V313.4H1035.59V315.8H1030.79V318.2H1023.59V315.8H1013.99V313.4H1009.19V311H1004.39V308.6H1001.99V303.8H999.59V301.4H997.19V291.8H994.79V282.2H997.19V275H999.59V270.2H1001.99V265.4H1004.39V263H1006.79V260.6H1011.59V258.2H1016.39V255.8H1035.59V258.2H1040.39V260.6H1042.79V263H1045.19V265.4H1047.59V267.8H1049.99V275H1052.39V284.6H1009.19V284.6ZM1037.99 279.8V275H1035.59V267.8H1033.19V263H1028.39V260.6H1023.59V263H1018.79V265.4H1016.39V270.2H1013.99V279.8H1037.99V279.8Z" fill="#FCEE21"/>
+<path class="jaune" d="M1100.39 315.8H1093.19V239H1090.79V236.6H1085.99V231.8H1095.59V229.4H1105.19V227H1109.99V260.6H1107.59V265.4H1105.19V267.8H1107.59V265.4H1109.99V263H1112.39V260.6H1114.79V258.2H1119.59V255.8H1136.39V258.2H1141.19V260.6H1143.59V263H1145.99V265.4H1148.39V267.8H1150.79V277.4H1153.19V287H1150.79V296.6H1148.39V301.4H1145.99V303.8H1143.59V308.6H1138.79V311H1136.39V313.4H1131.59V315.8H1102.79V313.4H1100.39V315.8V315.8ZM1124.39 311V308.6H1129.19V306.2H1131.59V301.4H1133.99V294.2H1136.39V282.2H1133.99V272.6H1131.59V267.8H1129.19V265.4H1114.79V267.8H1109.99V308.6H1112.39V311H1124.39Z" fill="#FCEE21"/>
+<path class="jaune" d="M1169.99 344.6H1160.39V342.2H1155.59V339.8H1153.19V327.8H1157.99V325.4H1160.39V327.8H1165.19V330.2H1167.59V335H1162.79V337.4H1172.39V335H1174.79V332.6H1177.19V325.4H1179.59V323H1181.99V318.2H1184.39V308.6H1181.99V301.4H1179.59V299H1177.19V294.2H1174.79V289.4H1172.39V284.6H1169.99V279.8H1167.59V275H1165.19V270.2H1162.79V265.4H1160.39V263H1157.99V260.6H1153.19V255.8H1191.59V260.6H1184.39V270.2H1186.79V275H1189.19V279.8H1191.59V284.6H1193.99V294.2H1196.39V291.8H1198.79V287H1201.19V282.2H1203.59V277.4H1205.99V272.6H1208.39V267.8H1210.79V265.4H1208.39V260.6H1201.19V255.8H1225.19V260.6H1222.79V263H1220.39V265.4H1217.99V270.2H1215.59V272.6H1213.19V277.4H1210.79V282.2H1208.39V287H1205.99V291.8H1203.59V296.6H1201.19V301.4H1198.79V306.2H1196.39V308.6H1193.99V313.4H1191.59V318.2H1189.19V323H1186.79V327.8H1184.39V332.6H1181.99V335H1179.59V337.4H1177.19V339.8H1174.79V342.2H1169.99V344.6V344.6Z" fill="#FCEE21"/>
+<path class="jaune" d="M1258.79 231.8H1294.79V239H1297.19V243.8H1299.59V251H1301.99V255.8H1304.39V260.6H1306.79V267.8H1309.19V272.6H1311.59V279.8H1313.99V287H1311.59V289.4H1316.39V282.2H1318.79V277.4H1321.19V270.2H1323.59V265.4H1325.99V258.2H1328.39V253.4H1330.79V246.2H1333.19V241.4H1335.59V234.2H1337.99V231.8H1371.59V236.6H1364.39V239H1361.99V241.4H1359.59V306.2H1361.99V308.6H1364.39V311H1371.59V315.8H1330.79V311H1337.99V308.6H1340.39V248.6H1342.79V243.8H1340.39V246.2H1337.99V253.4H1335.59V258.2H1333.19V265.4H1330.79V270.2H1328.39V275H1325.99V282.2H1323.59V287H1321.19V294.2H1318.79V299H1316.39V306.2H1313.99V311H1311.59V315.8H1309.19V318.2H1306.79V311H1304.39V303.8H1301.99V299H1299.59V294.2H1297.19V287H1294.79V282.2H1292.39V275H1289.99V270.2H1287.59V263H1285.19V258.2H1282.79V253.4H1280.39V246.2H1277.99V308.6H1280.39V311H1289.99V315.8H1258.79V311H1265.99V308.6H1268.39V306.2H1270.79V241.4H1268.39V239H1265.99V236.6H1258.79V231.8V231.8Z" fill="#FCEE21"/>
+<path class="jaune" d="M1390.79 284.6V287H1395.59V294.2H1397.99V299H1400.39V301.4H1402.79V303.8H1405.19V306.2H1424.39V303.8H1426.79V301.4H1429.19V299H1431.59V301.4H1429.19V306.2H1426.79V308.6H1424.39V311H1421.99V313.4H1417.19V315.8H1412.39V318.2H1405.19V315.8H1395.59V313.4H1390.79V311H1385.99V308.6H1383.59V303.8H1381.19V301.4H1378.79V291.8H1376.39V282.2H1378.79V275H1381.19V270.2H1383.59V265.4H1385.99V263H1388.39V260.6H1393.19V258.2H1397.99V255.8H1417.19V258.2H1421.99V260.6H1424.39V263H1426.79V265.4H1429.19V267.8H1431.59V275H1433.99V284.6H1390.79V284.6ZM1419.59 279.8V275H1417.19V267.8H1414.79V263H1409.99V260.6H1405.19V263H1400.39V265.4H1397.99V270.2H1395.59V279.8H1419.59V279.8Z" fill="#FCEE21"/>
+<path class="jaune" d="M1453.19 344.6H1443.59V342.2H1438.79V339.8H1436.39V327.8H1441.19V325.4H1443.59V327.8H1448.39V330.2H1450.79V335H1445.99V337.4H1455.59V335H1457.99V332.6H1460.39V325.4H1462.79V323H1465.19V318.2H1467.59V308.6H1465.19V301.4H1462.79V299H1460.39V294.2H1457.99V289.4H1455.59V284.6H1453.19V279.8H1450.79V275H1448.39V270.2H1445.99V265.4H1443.59V263H1441.19V260.6H1436.39V255.8H1474.79V260.6H1467.59V270.2H1469.99V275H1472.39V279.8H1474.79V284.6H1477.19V294.2H1479.59V291.8H1481.99V287H1484.39V282.2H1486.79V277.4H1489.19V272.6H1491.59V267.8H1493.99V265.4H1491.59V260.6H1484.39V255.8H1508.39V260.6H1505.99V263H1503.59V265.4H1501.19V270.2H1498.79V272.6H1496.39V277.4H1493.99V282.2H1491.59V287H1489.19V291.8H1486.79V296.6H1484.39V301.4H1481.99V306.2H1479.59V308.6H1477.19V313.4H1474.79V318.2H1472.39V323H1469.99V327.8H1467.59V332.6H1465.19V335H1462.79V337.4H1460.39V339.8H1457.99V342.2H1453.19V344.6V344.6Z" fill="#FCEE21"/>
+<path class="jaune" d="M1556.39 318.2H1553.99V308.6H1556.39V306.2H1558.79V301.4H1556.39V306.2H1553.99V308.6H1551.59V311H1549.19V313.4H1544.39V315.8H1525.19V313.4H1522.79V311H1520.39V308.6H1517.99V306.2H1515.59V301.4H1513.19V277.4H1515.59V272.6H1517.99V267.8H1520.39V265.4H1522.79V263H1525.19V260.6H1529.99V258.2H1534.79V255.8H1553.99V239H1551.59V236.6H1549.19V231.8H1558.79V229.4H1568.39V227H1570.79V306.2H1573.19V308.6H1575.59V311H1580.39V313.4H1570.79V315.8H1556.39V318.2V318.2ZM1546.79 308.6V306.2H1551.59V303.8H1553.99V263H1551.59V260.6H1539.59V263H1537.19V265.4H1534.79V267.8H1532.39V270.2H1529.99V296.6H1532.39V301.4H1534.79V303.8H1537.19V306.2H1539.59V308.6H1546.79Z" fill="#FCEE21"/>
+<path class="jaune" d="M1623.59 308.6V303.8H1625.99V301.4H1623.59V303.8H1621.19V306.2H1618.79V308.6H1616.39V311H1613.99V313.4H1611.59V315.8H1604.39V318.2H1597.19V315.8H1589.99V313.4H1587.59V311H1585.19V296.6H1587.59V294.2H1589.99V291.8H1594.79V289.4H1599.59V287H1606.79V284.6H1613.99V282.2H1621.19V267.8H1618.79V265.4H1616.39V263H1601.99V265.4H1599.59V267.8H1601.99V277.4H1599.59V279.8H1589.99V277.4H1587.59V267.8H1589.99V263H1592.39V260.6H1594.79V258.2H1601.99V255.8H1623.59V258.2H1628.39V260.6H1633.19V263H1635.59V270.2H1637.99V308.6H1645.19V311H1642.79V313.4H1640.39V315.8H1623.59V313.4H1621.19V308.6H1623.59V308.6ZM1592.39 229.4H1609.19V246.2H1592.39V229.4V229.4ZM1611.59 308.6V306.2H1616.39V303.8H1618.79V301.4H1621.19V287H1613.99V289.4H1606.79V291.8H1604.39V294.2H1601.99V306.2H1606.79V308.6H1611.59V308.6ZM1616.39 229.4H1633.19V246.2H1616.39V229.4V229.4ZM1645.19 308.6V306.2H1647.59V308.6H1645.19Z" fill="#FCEE21"/>
+<path class="jaune" d="M1683.59 315.8H1649.99V311H1657.19V308.6H1659.59V267.8H1657.19V265.4H1652.39V263H1649.99V260.6H1659.59V258.2H1666.79V255.8H1676.39V263H1673.99V267.8H1671.59V270.2H1673.99V267.8H1676.39V265.4H1678.79V263H1681.19V260.6H1683.59V258.2H1688.39V255.8H1705.19V258.2H1707.59V260.6H1709.99V263H1712.39V270.2H1714.79V311H1721.99V315.8H1688.39V311H1695.59V308.6H1697.99V272.6H1695.59V267.8H1693.19V265.4H1681.19V267.8H1678.79V270.2H1676.39V311H1683.59V315.8V315.8Z" fill="#FCEE21"/>
+<path class="jaune" d="M393.2 506.2H404.4V508.44H408.88V510.68H411.12V512.92H413.36V515.16H415.6V517.4H417.84V512.92H415.6V510.68H413.36V508.44H417.84V506.2H422.32V533.08H417.84V528.6H415.6V524.12H413.36V521.88H411.12V517.4H406.64V515.16H404.4V512.92H388.72V515.16H384.24V517.4H382V521.88H379.76V524.12H377.52V530.84H375.28V553.24H377.52V559.96H379.76V564.44H382V568.92H384.24V571.16H386.48V573.4H390.96V575.64H408.88V573.4H413.36V571.16H417.84V568.92H420.08V566.68H422.32V568.92H420.08V573.4H417.84V575.64H415.6V577.88H413.36V580.12H411.12V582.36H406.64V584.6H379.76V582.36H375.28V580.12H370.8V577.88H368.56V575.64H366.32V573.4H364.08V571.16H361.84V566.68H359.6V562.2H357.36V553.24H355.12V537.56H357.36V530.84H359.6V526.36H361.84V521.88H364.08V519.64H366.32V515.16H368.56V512.92H373.04V510.68H375.28V508.44H379.76V506.2H390.96V503.96H393.2V506.2V506.2ZM422.32 564.44V562.2H424.56V564.44H422.32Z" fill="#FCEE21"/>
+<path class="jaune" d="M460.4 584.6H429.04V580.12H435.76V512.92H433.52V510.68H431.28V506.2H440.24V503.96H449.2V501.72H453.68V580.12H460.4V584.6Z" fill="#FCEE21"/>
+<path class="jaune" d="M496.24 584.6H464.88V580.12H471.6V575.64H473.84V542.04H471.6V537.56H467.12V535.32H464.88V533.08H471.6V530.84H480.56V528.6H489.52V580.12H496.24V584.6V584.6ZM473.84 503.96H489.52V519.64H473.84V503.96Z" fill="#FCEE21"/>
+<path class="jaune" d="M532.08 611.48H500.72V607H505.2V604.76H507.44V602.52H509.68V542.04H507.44V537.56H502.96V535.32H500.72V533.08H507.44V530.84H514.16V528.6H523.12V526.36H525.36V535.32H523.12V537.56H520.88V542.04H523.12V539.8H525.36V535.32H527.6V533.08H532.08V530.84H534.32V528.6H550V530.84H554.48V533.08H556.72V535.32H558.96V537.56H561.2V542.04H563.44V566.68H561.2V571.16H558.96V573.4H556.72V575.64H554.48V577.88H552.24V580.12H550V582.36H545.52V584.6H525.36V604.76H527.6V607H532.08V611.48V611.48ZM538.8 580.12V577.88H543.28V573.4H545.52V568.92H547.76V546.52H545.52V542.04H543.28V539.8H541.04V537.56H529.84V539.8H527.6V542.04H525.36V577.88H527.6V580.12H538.8Z" fill="#FCEE21"/>
+<path class="jaune" d="M628.4 611.48H597.04V607H601.52V604.76H603.76V602.52H606V542.04H603.76V537.56H599.28V535.32H597.04V533.08H603.76V530.84H610.48V528.6H619.44V526.36H621.68V535.32H619.44V537.56H617.2V542.04H619.44V539.8H621.68V535.32H623.92V533.08H628.4V530.84H630.64V528.6H646.32V530.84H650.8V533.08H653.04V535.32H655.28V537.56H657.52V542.04H659.76V566.68H657.52V571.16H655.28V573.4H653.04V575.64H650.8V577.88H648.56V580.12H646.32V582.36H641.84V584.6H621.68V604.76H623.92V607H628.4V611.48V611.48ZM635.12 580.12V577.88H639.6V573.4H641.84V568.92H644.08V546.52H641.84V542.04H639.6V539.8H637.36V537.56H626.16V539.8H623.92V542.04H621.68V577.88H623.92V580.12H635.12Z" fill="#FCEE21"/>
+<path class="jaune" d="M702.32 577.88V573.4H704.56V571.16H702.32V573.4H700.08V575.64H697.84V577.88H695.6V580.12H693.36V582.36H691.12V584.6H684.4V586.84H677.68V584.6H670.96V582.36H668.72V580.12H666.48V566.68H668.72V564.44H670.96V562.2H675.44V559.96H679.92V557.72H686.64V555.48H693.36V553.24H700.08V539.8H697.84V537.56H695.6V535.32H682.16V537.56H679.92V539.8H682.16V548.76H679.92V551H670.96V548.76H668.72V539.8H670.96V535.32H673.2V533.08H675.44V530.84H682.16V528.6H702.32V530.84H706.8V533.08H711.28V535.32H713.52V542.04H715.76V577.88H722.48V580.12H720.24V582.36H718V584.6H702.32V582.36H700.08V577.88H702.32V577.88ZM691.12 577.88V575.64H695.6V573.4H697.84V571.16H700.08V557.72H693.36V559.96H686.64V562.2H684.4V564.44H682.16V575.64H686.64V577.88H691.12ZM722.48 577.88V575.64H724.72V577.88H722.48Z" fill="#FCEE21"/>
+<path class="jaune" d="M758.32 584.6H726.96V580.12H733.68V575.64H735.92V542.04H733.68V537.56H729.2V535.32H726.96V533.08H733.68V530.84H742.64V528.6H751.6V535.32H749.36V539.8H747.12V544.28H749.36V539.8H751.6V537.56H753.84V535.32H756.08V533.08H758.32V530.84H760.56V528.6H774V530.84H776.24V533.08H778.48V542.04H776.24V544.28H765.04V535.32H767.28V533.08H762.8V535.32H758.32V537.56H756.08V539.8H753.84V544.28H751.6V580.12H758.32V584.6V584.6Z" fill="#FCEE21"/>
+<path class="jaune" d="M832.23 575.64V580.12H856.87V577.88H863.59V575.64H865.83V573.4H868.07V571.16H870.31V566.68H872.55V559.96H874.79V557.72H879.27V566.68H877.03V582.36H874.79V584.6H807.59V580.12H814.31V577.88H816.55V573.4H818.79V517.4H816.55V512.92H814.31V510.68H807.59V506.2H845.67V510.68H838.95V512.92H836.71V575.64H832.23V575.64Z" fill="#FCEE21"/>
+<path class="jaune" d="M906.16 573.4H908.4V575.64H910.64V577.88H917.36V575.64H921.84V573.4H924.08V537.56H919.6V535.32H917.36V533.08H924.08V530.84H933.04V528.6H942V577.88H944.24V580.12H948.72V582.36H939.76V584.6H924.08V577.88H926.32V575.64H928.56V573.4H926.32V575.64H924.08V577.88H921.84V580.12H919.6V582.36H915.12V584.6H908.4V586.84H903.92V584.6H897.2V582.36H894.96V580.12H892.72V577.88H890.48V542.04H888.24V537.56H883.76V535.32H881.52V533.08H888.24V530.84H897.2V528.6H906.16V573.4V573.4Z" fill="#FCEE21"/>
+<path class="jaune" d="M1002.48 573.4H1000.24V575.64H998V577.88H995.76V580.12H993.52V582.36H991.28V584.6H984.56V586.84H977.84V584.6H968.88V582.36H966.64V580.12H962.16V577.88H959.92V573.4H957.68V571.16H955.44V546.52H957.68V542.04H959.92V539.8H962.16V535.32H966.64V533.08H968.88V530.84H973.36V528.6H993.52V530.84H998V533.08H1000.24V535.32H1002.48V537.56H1004.72V546.52H1002.48V551H993.52V548.76H991.28V539.8H993.52V537.56H991.28V535.32H989.04V533.08H980.08V535.32H977.84V537.56H975.6V539.8H973.36V544.28H971.12V564.44H973.36V568.92H975.6V571.16H977.84V573.4H980.08V575.64H995.76V573.4H1000.24V568.92H1002.48V573.4V573.4Z" fill="#FCEE21"/>
+<path class="jaune" d="M1040.55 584.6H1009.19V580.12H1015.91V575.64H1018.15V542.04H1015.91V537.56H1011.43V535.32H1009.19V533.08H1015.91V530.84H1024.87V528.6H1033.83V580.12H1040.55V584.6V584.6ZM1018.15 503.96H1033.83V519.64H1018.15V503.96Z" fill="#FCEE21"/>
+<path class="jaune" d="M1076.39 584.6H1045.03V580.12H1051.75V512.92H1049.51V510.68H1047.27V506.2H1056.23V503.96H1065.19V501.72H1069.67V580.12H1076.39V584.6V584.6Z" fill="#FCEE21"/>
+<path class="jaune" d="M1094.31 555.48V557.72H1098.79V564.44H1101.03V568.92H1103.27V571.16H1105.51V573.4H1107.75V575.64H1125.67V573.4H1127.91V571.16H1130.15V568.92H1132.39V571.16H1130.15V575.64H1127.91V577.88H1125.67V580.12H1123.43V582.36H1118.95V584.6H1114.47V586.84H1107.75V584.6H1098.79V582.36H1094.31V580.12H1089.83V577.88H1087.59V573.4H1085.35V571.16H1083.11V562.2H1080.87V553.24H1083.11V546.52H1085.35V542.04H1087.59V537.56H1089.83V535.32H1092.07V533.08H1096.55V530.84H1101.03V528.6H1118.95V530.84H1123.43V533.08H1125.67V535.32H1127.91V537.56H1130.15V539.8H1132.39V546.52H1134.63V555.48H1094.31V555.48ZM1121.19 551V546.52H1118.95V539.8H1116.71V535.32H1112.23V533.08H1107.75V535.32H1103.27V537.56H1101.03V542.04H1098.79V551H1121.19V551Z" fill="#FCEE21"/>
+<path class="jaune" d="M1165.99 580.12H1174.95V577.88H1177.19V515.16H1174.95V510.68H1165.99V506.2H1215.27V508.44H1224.23V510.68H1228.71V512.92H1233.19V515.16H1237.67V517.4H1239.91V519.64H1242.15V521.88H1244.39V526.36H1246.63V528.6H1248.87V535.32H1251.11V553.24H1248.87V559.96H1246.63V564.44H1244.39V566.68H1242.15V571.16H1239.91V573.4H1235.43V575.64H1233.19V577.88H1228.71V580.12H1224.23V582.36H1217.51V584.6H1165.99V580.12V580.12ZM1190.63 575.64V580.12H1208.55V577.88H1215.27V575.64H1219.75V573.4H1221.99V571.16H1224.23V566.68H1226.47V562.2H1228.71V553.24H1230.95V542.04H1228.71V530.84H1226.47V526.36H1224.23V521.88H1221.99V519.64H1219.75V517.4H1217.51V515.16H1213.03V512.92H1206.31V510.68H1190.63V512.92H1195.11V575.64H1190.63V575.64Z" fill="#FCEE21"/>
+<path class="jaune" d="M1269.03 555.48V557.72H1273.51V564.44H1275.75V568.92H1277.99V571.16H1280.23V573.4H1282.47V575.64H1300.39V573.4H1302.63V571.16H1304.87V568.92H1307.11V571.16H1304.87V575.64H1302.63V577.88H1300.39V580.12H1298.15V582.36H1293.67V584.6H1289.19V586.84H1282.47V584.6H1273.51V582.36H1269.03V580.12H1264.55V577.88H1262.31V573.4H1260.07V571.16H1257.83V562.2H1255.59V553.24H1257.83V546.52H1260.07V542.04H1262.31V537.56H1264.55V535.32H1266.79V533.08H1271.27V530.84H1275.75V528.6H1293.67V530.84H1298.15V533.08H1300.39V535.32H1302.63V537.56H1304.87V539.8H1307.11V546.52H1309.35V555.48H1269.03V555.48ZM1295.91 551V546.52H1293.67V539.8H1291.43V535.32H1286.95V533.08H1282.47V535.32H1277.99V537.56H1275.75V542.04H1273.51V551H1295.91V551Z" fill="#FCEE21"/>
+<path class="jaune" d="M1345.19 584.6H1313.83V580.12H1320.55V512.92H1318.31V510.68H1316.07V506.2H1325.03V503.96H1333.99V501.72H1338.47V580.12H1345.19V584.6V584.6Z" fill="#FCEE21"/>
+<path class="jaune" d="M1385.51 577.88V573.4H1387.75V571.16H1385.51V573.4H1383.27V575.64H1381.03V577.88H1378.79V580.12H1376.55V582.36H1374.31V584.6H1367.59V586.84H1360.87V584.6H1354.15V582.36H1351.91V580.12H1349.67V566.68H1351.91V564.44H1354.15V562.2H1358.63V559.96H1363.11V557.72H1369.83V555.48H1376.55V553.24H1383.27V539.8H1381.03V537.56H1378.79V535.32H1365.35V537.56H1363.11V539.8H1365.35V548.76H1363.11V551H1354.15V548.76H1351.91V539.8H1354.15V535.32H1356.39V533.08H1358.63V530.84H1365.35V528.6H1385.51V530.84H1389.99V533.08H1394.47V535.32H1396.71V542.04H1398.95V577.88H1405.67V580.12H1403.43V582.36H1401.19V584.6H1385.51V582.36H1383.27V577.88H1385.51ZM1374.31 577.88V575.64H1378.79V573.4H1381.03V571.16H1383.27V557.72H1376.55V559.96H1369.83V562.2H1367.59V564.44H1365.35V575.64H1369.83V577.88H1374.31ZM1405.67 577.88V575.64H1407.91V577.88H1405.67Z" fill="#FCEE21"/>
+<path class="jaune" d="M1439.27 584.6H1434.79V582.36H1432.55V577.88H1430.31V573.4H1428.07V568.92H1425.83V564.44H1423.59V559.96H1421.35V555.48H1419.11V551H1416.87V546.52H1414.63V542.04H1412.39V537.56H1410.15V535.32H1407.91V533.08H1403.43V528.6H1437.03V533.08H1432.55V535.32H1430.31V539.8H1432.55V544.28H1434.79V548.76H1437.03V553.24H1439.27V557.72H1441.51V564.44H1439.27V566.68H1443.75V562.2H1445.99V557.72H1448.23V553.24H1450.47V548.76H1452.71V544.28H1454.95V535.32H1452.71V533.08H1448.23V528.6H1470.63V533.08H1468.39V535.32H1463.91V539.8H1461.67V544.28H1459.43V548.76H1457.19V551H1454.95V555.48H1452.71V559.96H1450.47V564.44H1448.23V568.92H1445.99V573.4H1443.75V577.88H1441.51V582.36H1439.27V584.6V584.6Z" fill="#FCEE21"/>
+<path class="jaune" d="M1506.47 577.88V573.4H1508.71V571.16H1506.47V573.4H1504.23V575.64H1501.99V577.88H1499.75V580.12H1497.51V582.36H1495.27V584.6H1488.55V586.84H1481.83V584.6H1475.11V582.36H1472.87V580.12H1470.63V566.68H1472.87V564.44H1475.11V562.2H1479.59V559.96H1484.07V557.72H1490.79V555.48H1497.51V553.24H1504.23V539.8H1501.99V537.56H1499.75V535.32H1486.31V537.56H1484.07V539.8H1486.31V548.76H1484.07V551H1475.11V548.76H1472.87V539.8H1475.11V535.32H1477.35V533.08H1479.59V530.84H1486.31V528.6H1506.47V530.84H1510.95V533.08H1515.43V535.32H1517.67V542.04H1519.91V577.88H1526.63V580.12H1524.39V582.36H1522.15V584.6H1506.47V582.36H1504.23V577.88H1506.47ZM1495.27 577.88V575.64H1499.75V573.4H1501.99V571.16H1504.23V557.72H1497.51V559.96H1490.79V562.2H1488.55V564.44H1486.31V575.64H1490.79V577.88H1495.27ZM1526.63 577.88V575.64H1528.87V577.88H1526.63Z" fill="#FCEE21"/>
+<path class="jaune" d="M1562.47 584.6H1531.11V580.12H1537.83V512.92H1535.59V510.68H1533.35V506.2H1542.31V503.96H1551.27V501.72H1555.75V580.12H1562.47V584.6V584.6Z" fill="#FCEE21"/>
+<path class="jaune" d="M613.92 744.44V743H612.48V741.56H592.32V743H590.88V745.88H589.44V750.2H588V751.64H589.44V754.52H593.76V757.4H577.92V754.52H580.8V753.08H582.24V751.64H583.68V750.2H585.12V747.32H586.56V743H588V740.12H589.44V737.24H590.88V732.92H592.32V730.04H593.76V727.16H595.2V724.28H596.64V719.96H598.08V717.08H599.52V714.2H600.96V709.88H602.4V707H603.84V705.56H608.16V709.88H609.6V712.76H611.04V715.64H612.48V719.96H613.92V722.84H615.36V725.72H616.8V730.04H618.24V732.92H619.68V735.8H621.12V738.68H622.56V743H624V745.88H625.44V748.76H626.88V751.64H628.32V753.08H629.76V754.52H632.64V757.4H609.6V754.52H612.48V747.32H611.04V744.44H613.92V744.44ZM608.16 738.68V735.8H606.72V732.92H605.28V728.6H603.84V725.72H602.4V722.84H599.52V727.16H598.08V730.04H596.64V732.92H595.2V735.8H593.76V738.68H608.16Z" fill="#FCEE21"/>
+<path class="jaune" d="M648.48 757.4H645.6V755.96H644.16V753.08H642.72V750.2H641.28V747.32H639.84V744.44H638.4V741.56H636.96V738.68H635.52V735.8H634.08V732.92H632.64V730.04H631.2V727.16H629.76V725.72H628.32V724.28H625.44V721.4H647.04V724.28H644.16V725.72H642.72V728.6H644.16V731.48H645.6V734.36H647.04V737.24H648.48V740.12H649.92V744.44H648.48V745.88H651.36V743H652.8V740.12H654.24V737.24H655.68V734.36H657.12V731.48H658.56V725.72H657.12V724.28H654.24V721.4H668.64V724.28H667.2V725.72H664.32V728.6H662.88V731.48H661.44V734.36H660V735.8H658.56V738.68H657.12V741.56H655.68V744.44H654.24V747.32H652.8V750.2H651.36V753.08H649.92V755.96H648.48V757.4V757.4Z" fill="#FCEE21"/>
+<path class="jaune" d="M677.28 738.67V740.11H680.16V744.43H681.6V747.31H683.04V748.75H684.48V750.19H685.92V751.63H697.44V750.19H698.88V748.75H700.32V747.31H701.76V748.75H700.32V751.63H698.88V753.07H697.44V754.51H696V755.95H693.12V757.39H690.24V758.83H685.92V757.39H680.16V755.95H677.28V754.51H674.4V753.07H672.96V750.19H671.52V748.75H670.08V742.99H668.64V737.23H670.08V732.91H671.52V730.03H672.96V727.15H674.4V725.71H675.84V724.27H678.72V722.83H681.6V721.39H693.12V722.83H696V724.27H697.44V725.71H698.88V727.15H700.32V728.59H701.76V732.91H703.2V738.67H677.28V738.67ZM694.56 735.79V732.91H693.12V728.59H691.68V725.71H688.8V724.27H685.92V725.71H683.04V727.15H681.6V730.03H680.16V735.79H694.56Z" fill="#FCEE21"/>
+<path class="jaune" d="M737.76 750.2H736.32V751.64H734.88V753.08H733.44V754.52H732V755.96H730.56V757.4H726.24V758.84H721.92V757.4H716.16V755.96H714.72V754.52H711.84V753.08H710.4V750.2H708.96V748.76H707.52V732.92H708.96V730.04H710.4V728.6H711.84V725.72H714.72V724.28H716.16V722.84H719.04V721.4H732V722.84H734.88V724.28H736.32V725.72H737.76V727.16H739.2V732.92H737.76V735.8H732V734.36H730.56V728.6H732V727.16H730.56V725.72H729.12V724.28H723.36V725.72H721.92V727.16H720.48V728.6H719.04V731.48H717.6V744.44H719.04V747.32H720.48V748.76H721.92V750.2H723.36V751.64H733.44V750.2H736.32V747.32H737.76V750.2V750.2Z" fill="#FCEE21"/>
+<path class="jaune" d="M779.52 757.4H759.36V754.52H763.68V711.32H762.24V709.88H760.8V707H766.56V705.56H772.32V704.12H775.2V754.52H779.52V757.4Z" fill="#FCEE21"/>
+<path class="jaune" d="M805.44 753.08V750.2H806.88V748.76H805.44V750.2H804V751.64H802.56V753.08H801.12V754.52H799.68V755.96H798.24V757.4H793.92V758.84H789.6V757.4H785.28V755.96H783.84V754.52H782.4V745.88H783.84V744.44H785.28V743H788.16V741.56H791.04V740.12H795.36V738.68H799.68V737.24H804V728.6H802.56V727.16H801.12V725.72H792.48V727.16H791.04V728.6H792.48V734.36H791.04V735.8H785.28V734.36H783.84V728.6H785.28V725.72H786.72V724.28H788.16V722.84H792.48V721.4H805.44V722.84H808.32V724.28H811.2V725.72H812.64V730.04H814.08V753.08H818.4V754.52H816.96V755.96H815.52V757.4H805.44V755.96H804V753.08H805.44V753.08ZM798.24 753.08V751.64H801.12V750.2H802.56V748.76H804V740.12H799.68V741.56H795.36V743H793.92V744.44H792.48V751.64H795.36V753.08H798.24V753.08ZM818.4 753.08V751.64H819.84V753.08H818.4Z" fill="#FCEE21"/>
+<path class="jaune" d="M858.72 757.4H838.56V754.52H842.88V711.32H841.44V709.88H840V707H845.76V705.56H851.52V704.12H854.4V754.52H858.72V757.4Z" fill="#FCEE21"/>
+<path class="jaune" d="M881.76 757.4H861.6V754.52H865.92V751.64H867.36V730.04H865.92V727.16H863.04V725.72H861.6V724.28H865.92V722.84H871.68V721.4H877.44V754.52H881.76V757.4V757.4ZM867.36 705.56H877.44V715.64H867.36V705.56Z" fill="#FCEE21"/>
+<path class="jaune" d="M893.28 757.4H888.96V711.32H887.52V709.88H884.64V707H890.4V705.56H896.16V704.12H899.04V724.28H897.6V727.16H896.16V728.6H897.6V727.16H899.04V725.72H900.48V724.28H901.92V722.84H904.8V721.4H914.88V722.84H917.76V724.28H919.2V725.72H920.64V727.16H922.08V728.6H923.52V734.36H924.96V740.12H923.52V745.88H922.08V748.76H920.64V750.2H919.2V753.08H916.32V754.52H914.88V755.96H912V757.4H894.72V755.96H893.28V757.4V757.4ZM907.68 754.52V753.08H910.56V751.64H912V748.76H913.44V744.44H914.88V737.24H913.44V731.48H912V728.6H910.56V727.16H901.92V728.6H899.04V753.08H900.48V754.52H907.68V754.52Z" fill="#FCEE21"/>
+<path class="jaune" d="M948 757.4H927.84V754.52H932.16V751.64H933.6V730.04H932.16V727.16H929.28V725.72H927.84V724.28H932.16V722.84H937.92V721.4H943.68V725.72H942.24V728.6H940.8V731.48H942.24V728.6H943.68V727.16H945.12V725.72H946.56V724.28H948V722.84H949.44V721.4H958.08V722.84H959.52V724.28H960.96V730.04H959.52V731.48H952.32V725.72H953.76V724.28H950.88V725.72H948V727.16H946.56V728.6H945.12V731.48H943.68V754.52H948V757.4V757.4Z" fill="#FCEE21"/>
+<path class="jaune" d="M984 753.08V750.2H985.44V748.76H984V750.2H982.56V751.64H981.12V753.08H979.68V754.52H978.24V755.96H976.8V757.4H972.48V758.84H968.16V757.4H963.84V755.96H962.4V754.52H960.96V745.88H962.4V744.44H963.84V743H966.72V741.56H969.6V740.12H973.92V738.68H978.24V737.24H982.56V728.6H981.12V727.16H979.68V725.72H971.04V727.16H969.6V728.6H971.04V734.36H969.6V735.8H963.84V734.36H962.4V728.6H963.84V725.72H965.28V724.28H966.72V722.84H971.04V721.4H984V722.84H986.88V724.28H989.76V725.72H991.2V730.04H992.64V753.08H996.96V754.52H995.52V755.96H994.08V757.4H984V755.96H982.56V753.08H984V753.08ZM976.8 753.08V751.64H979.68V750.2H981.12V748.76H982.56V740.12H978.24V741.56H973.92V743H972.48V744.44H971.04V751.64H973.92V753.08H976.8V753.08ZM996.96 753.08V751.64H998.4V753.08H996.96Z" fill="#FCEE21"/>
+<path class="jaune" d="M1020 757.4H999.84V754.52H1004.16V751.64H1005.6V730.04H1004.16V727.16H1001.28V725.72H999.84V724.28H1004.16V722.84H1009.92V721.4H1015.68V754.52H1020V757.4V757.4ZM1005.6 705.56H1015.68V715.64H1005.6V705.56Z" fill="#FCEE21"/>
+<path class="jaune" d="M1043.03 757.4H1022.87V754.52H1027.19V751.64H1028.63V730.04H1027.19V727.16H1024.31V725.72H1022.87V724.28H1027.19V722.84H1032.95V721.4H1038.71V725.72H1037.27V728.6H1035.83V731.48H1037.27V728.6H1038.71V727.16H1040.15V725.72H1041.59V724.28H1043.03V722.84H1044.47V721.4H1053.11V722.84H1054.55V724.28H1055.99V730.04H1054.55V731.48H1047.35V725.72H1048.79V724.28H1045.91V725.72H1043.03V727.16H1041.59V728.6H1040.15V731.48H1038.71V754.52H1043.03V757.4V757.4Z" fill="#FCEE21"/>
+<path class="jaune" d="M1077.59 757.4H1057.43V754.52H1061.75V751.64H1063.19V730.04H1061.75V727.16H1058.87V725.72H1057.43V724.28H1061.75V722.84H1067.51V721.4H1073.27V754.52H1077.59V757.4V757.4ZM1063.19 705.56H1073.27V715.64H1063.19V705.56Z" fill="#FCEE21"/>
+<path class="jaune" d="M1089.11 738.67V740.11H1091.99V744.43H1093.43V747.31H1094.87V748.75H1096.31V750.19H1097.75V751.63H1109.27V750.19H1110.71V748.75H1112.15V747.31H1113.59V748.75H1112.15V751.63H1110.71V753.07H1109.27V754.51H1107.83V755.95H1104.95V757.39H1102.07V758.83H1097.75V757.39H1091.99V755.95H1089.11V754.51H1086.23V753.07H1084.79V750.19H1083.35V748.75H1081.91V742.99H1080.47V737.23H1081.91V732.91H1083.35V730.03H1084.79V727.15H1086.23V725.71H1087.67V724.27H1090.55V722.83H1093.43V721.39H1104.95V722.83H1107.83V724.27H1109.27V725.71H1110.71V727.15H1112.15V728.59H1113.59V732.91H1115.03V738.67H1089.11V738.67ZM1106.39 735.79V732.91H1104.95V728.59H1103.51V725.71H1100.63V724.27H1097.75V725.71H1094.87V727.15H1093.43V730.03H1091.99V735.79H1106.39V735.79Z" fill="#FCEE21"/>
+<path class="jaune" d="M1169.75 757.4H1151.03V755.96H1148.15V754.52H1145.27V753.08H1143.83V751.64H1142.39V750.2H1140.95V748.76H1139.51V745.88H1138.07V743H1136.63V735.8H1135.19V730.04H1136.63V722.84H1138.07V719.96H1139.51V717.08H1140.95V715.64H1142.39V714.2H1143.83V712.76H1145.27V711.32H1146.71V709.88H1149.59V708.44H1152.47V707H1168.31V708.44H1171.19V709.88H1174.07V711.32H1175.51V712.76H1176.95V711.32H1175.51V709.88H1174.07V708.44H1176.95V707H1181.27V724.28H1178.39V722.84H1176.95V719.96H1175.51V717.08H1174.07V715.64H1172.63V714.2H1171.19V712.76H1168.31V711.32H1158.23V712.76H1155.35V714.2H1153.91V715.64H1152.47V717.08H1151.03V719.96H1149.59V724.28H1148.15V738.68H1149.59V743H1151.03V745.88H1152.47V748.76H1153.91V750.2H1155.35V751.64H1158.23V753.08H1169.75V751.64H1172.63V750.2H1175.51V748.76H1176.95V745.88H1175.51V747.32H1174.07V748.76H1172.63V737.24H1171.19V735.8H1166.87V732.92H1189.91V735.8H1184.15V757.4H1182.71V755.96H1179.83V754.52H1178.39V753.08H1175.51V754.52H1172.63V755.96H1169.75V757.4V757.4Z" fill="#FCEE21"/>
+<path class="jaune" d="M1195.67 758.84H1194.23V740.12H1197.11V741.56H1198.55V744.44H1199.99V747.32H1201.43V748.76H1202.87V750.2H1204.31V751.64H1207.19V753.08H1212.95V754.52H1214.39V753.08H1220.15V751.64H1221.59V750.2H1223.03V744.44H1221.59V741.56H1218.71V740.12H1215.83V738.68H1211.51V737.24H1207.19V735.8H1202.87V734.36H1199.99V732.92H1198.55V731.48H1197.11V730.04H1195.67V728.6H1194.23V724.28H1192.79V719.96H1194.23V715.64H1195.67V712.76H1197.11V711.32H1198.55V709.88H1199.99V708.44H1202.87V707H1215.83V708.44H1218.71V709.88H1220.15V711.32H1221.59V712.76H1223.03V714.2H1224.47V711.32H1223.03V709.88H1221.59V708.44H1224.47V707H1228.79V724.28H1225.91V722.84H1224.47V719.96H1223.03V718.52H1221.59V717.08H1220.15V714.2H1217.27V712.76H1215.83V711.32H1205.75V712.76H1204.31V714.2H1202.87V721.4H1204.31V722.84H1207.19V724.28H1211.51V725.72H1214.39V727.16H1218.71V728.6H1223.03V730.04H1225.91V731.48H1228.79V732.92H1230.23V735.8H1231.67V738.68H1233.11V745.88H1231.67V748.76H1230.23V751.64H1228.79V753.08H1227.35V754.52H1224.47V755.96H1221.59V757.4H1207.19V755.96H1204.31V754.52H1202.87V753.08H1199.99V751.64H1198.55V753.08H1199.99V754.52H1201.43V755.96H1198.55V757.4H1195.67V758.84V758.84Z" fill="#FCEE21"/>
+<path class="jaune" d="M1269.11 744.44V743H1267.67V741.56H1247.51V743H1246.07V745.88H1244.63V750.2H1243.19V751.64H1244.63V754.52H1248.95V757.4H1233.11V754.52H1235.99V753.08H1237.43V751.64H1238.87V750.2H1240.31V747.32H1241.75V743H1243.19V740.12H1244.63V737.24H1246.07V732.92H1247.51V730.04H1248.95V727.16H1250.39V724.28H1251.83V719.96H1253.27V717.08H1254.71V714.2H1256.15V709.88H1257.59V707H1259.03V705.56H1263.35V709.88H1264.79V712.76H1266.23V715.64H1267.67V719.96H1269.11V722.84H1270.55V725.72H1271.99V730.04H1273.43V732.92H1274.87V735.8H1276.31V738.68H1277.75V743H1279.19V745.88H1280.63V748.76H1282.07V751.64H1283.51V753.08H1284.95V754.52H1287.83V757.4H1264.79V754.52H1267.67V747.32H1266.23V744.44H1269.11V744.44ZM1263.35 738.68V735.8H1261.91V732.92H1260.47V728.6H1259.03V725.72H1257.59V722.84H1254.71V727.16H1253.27V730.04H1251.83V732.92H1250.39V735.8H1248.95V738.68H1263.35V738.68Z" fill="#FCEE21"/>
+<path class="jaune" d="M1307.99 753.08H1309.43V754.52H1315.19V757.4H1289.27V754.52H1295.03V753.08H1296.47V711.32H1295.03V709.88H1289.27V707H1325.27V708.44H1329.59V709.88H1331.03V711.32H1333.91V712.76H1335.35V715.64H1336.79V724.28H1335.35V728.6H1333.91V730.04H1332.47V731.48H1331.03V732.92H1328.15V734.36H1322.39V735.8H1306.55V737.24H1307.99V753.08ZM1315.19 732.92V731.48H1319.51V730.04H1320.95V728.6H1322.39V727.16H1323.83V722.84H1325.27V719.96H1323.83V714.2H1322.39V712.76H1320.95V711.32H1316.63V709.88H1306.55V711.32H1307.99V732.92H1315.19V732.92Z" fill="#FCEE21"/>
+<path class="jaune" d="M582.96 839.48V840.92H600.24V839.48H604.56V838.04H606V836.6H607.44V835.16H608.88V830.84H610.32V827.96H611.76V826.52H614.64V827.96H613.2V839.48H611.76V843.8H567.12V840.92H571.44V839.48H572.88V838.04H574.32V800.6H572.88V797.72H571.44V796.28H567.12V793.4H611.76V810.68H608.88V807.8H607.44V802.04H606V800.6H604.56V799.16H603.12V797.72H598.8V796.28H582.96V797.72H585.84V816.44H593.04V815H595.92V813.56H597.36V807.8H600.24V827.96H597.36V823.64H595.92V820.76H593.04V819.32H585.84V839.48H582.96V839.48Z" fill="#FCEE21"/>
+<path class="jaune" d="M618.96 845.24H617.52V830.84H620.4V832.28H621.84V833.72H623.28V836.6H624.72V838.04H626.16V839.48H629.04V840.92H634.8V839.48H637.68V833.72H636.24V832.28H631.92V830.84H629.04V829.4H624.72V827.96H621.84V826.52H620.4V825.08H618.96V823.64H617.52V815H618.96V812.12H620.4V810.68H621.84V809.24H624.72V807.8H633.36V809.24H636.24V810.68H637.68V812.12H639.12V813.56H640.56V810.68H639.12V807.8H643.44V820.76H640.56V819.32H639.12V816.44H637.68V815H636.24V813.56H634.8V812.12H626.16V819.32H629.04V820.76H633.36V822.2H637.68V823.64H640.56V825.08H643.44V826.52H644.88V829.4H646.32V838.04H644.88V839.48H643.44V840.92H642V842.36H639.12V843.8H627.6V842.36H624.72V840.92H623.28V839.48H621.84V842.36H623.28V843.8H618.96V845.24V845.24Z" fill="#FCEE21"/>
+<path class="jaune" d="M672.24 839.48V836.6H673.68V835.16H672.24V836.6H670.8V838.04H669.36V839.48H667.92V840.92H666.48V842.36H665.04V843.8H660.72V845.24H656.4V843.8H652.08V842.36H650.64V840.92H649.2V832.28H650.64V830.84H652.08V829.4H654.96V827.96H657.84V826.52H662.16V825.08H666.48V823.64H670.8V815H669.36V813.56H667.92V812.12H659.28V813.56H657.84V815H659.28V820.76H657.84V822.2H652.08V820.76H650.64V815H652.08V812.12H653.52V810.68H654.96V809.24H659.28V807.8H672.24V809.24H675.12V810.68H678V812.12H679.44V816.44H680.88V839.48H685.2V840.92H683.76V842.36H682.32V843.8H672.24V842.36H670.8V839.48H672.24ZM665.04 839.48V838.04H667.92V836.6H669.36V835.16H670.8V826.52H666.48V827.96H662.16V829.4H660.72V830.84H659.28V838.04H662.16V839.48H665.04V839.48ZM685.2 839.48V838.04H686.64V839.48H685.2Z" fill="#FCEE21"/>
+<path class="jaune" d="M715.44 845.24H714V839.48H715.44V838.04H716.88V835.16H715.44V838.04H714V839.48H712.56V840.92H711.12V842.36H708.24V843.8H696.72V842.36H695.28V840.92H693.84V839.48H692.4V838.04H690.96V835.16H689.52V820.76H690.96V817.88H692.4V815H693.84V813.56H695.28V812.12H696.72V810.68H699.6V809.24H702.48V807.8H714V797.72H712.56V796.28H711.12V793.4H716.88V791.96H722.64V790.52H724.08V838.04H725.52V839.48H726.96V840.92H729.84V842.36H724.08V843.8H715.44V845.24V845.24ZM709.68 839.48V838.04H712.56V836.6H714V812.12H712.56V810.68H705.36V812.12H703.92V813.56H702.48V815H701.04V816.44H699.6V832.28H701.04V835.16H702.48V836.6H703.92V838.04H705.36V839.48H709.68V839.48Z" fill="#FCEE21"/>
+<path class="jaune" d="M784.56 830.84V829.4H783.12V827.96H762.96V829.4H761.52V832.28H760.08V836.6H758.64V838.04H760.08V840.92H764.4V843.8H748.56V840.92H751.44V839.48H752.88V838.04H754.32V836.6H755.76V833.72H757.2V829.4H758.64V826.52H760.08V823.64H761.52V819.32H762.96V816.44H764.4V813.56H765.84V810.68H767.28V806.36H768.72V803.48H770.16V800.6H771.6V796.28H773.04V793.4H774.48V791.96H778.8V796.28H780.24V799.16H781.68V802.04H783.12V806.36H784.56V809.24H786V812.12H787.44V816.44H788.88V819.32H790.32V822.2H791.76V825.08H793.2V829.4H794.64V832.28H796.08V835.16H797.52V838.04H798.96V839.48H800.4V840.92H803.28V843.8H780.24V840.92H783.12V833.72H781.68V830.84H784.56V830.84ZM778.8 825.08V822.2H777.36V819.32H775.92V815H774.48V812.12H773.04V809.24H770.16V813.56H768.72V816.44H767.28V819.32H765.84V822.2H764.4V825.08H778.8V825.08Z" fill="#FCEE21"/>
+<path class="jaune" d="M804.72 840.92H809.04V813.56H806.16V812.12H804.72V810.68H809.04V809.24H814.8V807.8H820.56V812.12H819.12V813.56H817.68V816.44H819.12V815H820.56V813.56H822V812.12H823.44V810.68H824.88V809.24H826.32V807.8H836.4V809.24H837.84V810.68H839.28V812.12H840.72V815H839.28V816.44H840.72V815H842.16V813.56H843.6V812.12H845.04V810.68H846.48V809.24H847.92V807.8H858V809.24H860.88V810.68H862.32V815H863.76V839.48H865.2V840.92H868.08V843.8H849.36V840.92H852.24V839.48H853.68V816.44H852.24V815H850.8V813.56H845.04V815H843.6V816.44H842.16V840.92H846.48V843.8H827.76V840.92H830.64V839.48H832.08V817.88H830.64V815H829.2V813.56H823.44V815H820.56V840.92H823.44V843.8H804.72V840.92V840.92Z" fill="#FCEE21"/>
+<path class="jaune" d="M891.12 843.8H870.96V840.92H875.28V838.04H876.72V816.44H875.28V813.56H872.4V812.12H870.96V810.68H875.28V809.24H881.04V807.8H886.8V840.92H891.12V843.8V843.8ZM876.72 791.96H886.8V802.04H876.72V791.96Z" fill="#FCEE21"/>
+<path class="jaune" d="M902.64 825.07V826.51H905.52V830.83H906.96V833.71H908.4V835.15H909.84V836.59H911.28V838.03H922.8V836.59H924.24V835.15H925.68V833.71H927.12V835.15H925.68V838.03H924.24V839.47H922.8V840.91H921.36V842.35H918.48V843.79H915.6V845.23H911.28V843.79H905.52V842.35H902.64V840.91H899.76V839.47H898.32V836.59H896.88V835.15H895.44V829.39H894V823.63H895.44V819.31H896.88V816.43H898.32V813.55H899.76V812.11H901.2V810.67H904.08V809.23H906.96V807.79H918.48V809.23H921.36V810.67H922.8V812.11H924.24V813.55H925.68V814.99H927.12V819.31H928.56V825.07H902.64V825.07ZM919.92 822.19V819.31H918.48V814.99H917.04V812.11H914.16V810.67H911.28V812.11H908.4V813.55H906.96V816.43H905.52V822.19H919.92V822.19Z" fill="#FCEE21"/>
+<path class="jaune" d="M951.6 843.8H931.44V840.92H935.76V839.48H937.2V815H935.76V813.56H932.88V812.12H931.44V810.68H937.2V809.24H941.52V807.8H947.28V812.12H945.84V815H944.4V816.44H945.84V815H947.28V813.56H948.72V812.12H950.16V810.68H951.6V809.24H954.48V807.8H964.56V809.24H966V810.68H967.44V812.12H968.88V816.44H970.32V840.92H974.64V843.8H954.48V840.92H958.8V839.48H960.24V817.88H958.8V815H957.36V813.56H950.16V815H948.72V816.44H947.28V840.92H951.6V843.8V843.8Z" fill="#FCEE21"/>
+<path class="jaune" d="M978.95 845.24H977.51V830.84H980.39V832.28H981.83V833.72H983.27V836.6H984.71V838.04H986.15V839.48H989.03V840.92H994.79V839.48H997.67V833.72H996.23V832.28H991.91V830.84H989.03V829.4H984.71V827.96H981.83V826.52H980.39V825.08H978.95V823.64H977.51V815H978.95V812.12H980.39V810.68H981.83V809.24H984.71V807.8H993.35V809.24H996.23V810.68H997.67V812.12H999.11V813.56H1000.55V810.68H999.11V807.8H1003.43V820.76H1000.55V819.32H999.11V816.44H997.67V815H996.23V813.56H994.79V812.12H986.15V819.32H989.03V820.76H993.35V822.2H997.67V823.64H1000.55V825.08H1003.43V826.52H1004.87V829.4H1006.31V838.04H1004.87V839.48H1003.43V840.92H1001.99V842.36H999.11V843.8H987.59V842.36H984.71V840.92H983.27V839.48H981.83V842.36H983.27V843.8H978.95V845.24V845.24Z" fill="#FCEE21"/>
+<path class="jaune" d="M1013.51 852.44H1012.07V851H1013.51V849.56H1014.95V848.12H1016.39V840.92H1014.95V843.8H1012.07V842.36H1010.63V840.92H1009.19V835.16H1010.63V833.72H1017.83V835.16H1019.27V836.6H1020.71V843.8H1019.27V846.68H1017.83V849.56H1016.39V851H1013.51V852.44V852.44Z" fill="#FCEE21"/>
+<path class="jaune" d="M1042.31 793.39H1063.91V797.71H1065.35V800.59H1066.79V804.91H1068.23V807.79H1069.67V810.67H1071.11V814.99H1072.55V817.87H1073.99V822.19H1075.43V826.51H1073.99V827.95H1076.87V823.63H1078.31V820.75H1079.75V816.43H1081.19V813.55H1082.63V809.23H1084.07V806.35H1085.51V802.03H1086.95V799.15H1088.39V794.83H1089.83V793.39H1109.99V796.27H1105.67V797.71H1104.23V799.15H1102.79V838.03H1104.23V839.47H1105.67V840.91H1109.99V843.79H1085.51V840.91H1089.83V839.47H1091.27V803.47H1092.71V800.59H1091.27V802.03H1089.83V806.35H1088.39V809.23H1086.95V813.55H1085.51V816.43H1084.07V819.31H1082.63V823.63H1081.19V826.51H1079.75V830.83H1078.31V833.71H1076.87V838.03H1075.43V840.91H1073.99V843.79H1072.55V845.23H1071.11V840.91H1069.67V836.59H1068.23V833.71H1066.79V830.83H1065.35V826.51H1063.91V823.63H1062.47V819.31H1061.03V816.43H1059.59V812.11H1058.15V809.23H1056.71V806.35H1055.27V802.03H1053.83V839.47H1055.27V840.91H1061.03V843.79H1042.31V840.91H1046.63V839.47H1048.07V838.03H1049.51V799.15H1048.07V797.71H1046.63V796.27H1042.31V793.39V793.39Z" fill="#FCEE21"/>
+<path class="jaune" d="M1135.91 839.48V836.6H1137.35V835.16H1135.91V836.6H1134.47V838.04H1133.03V839.48H1131.59V840.92H1130.15V842.36H1128.71V843.8H1124.39V845.24H1120.07V843.8H1115.75V842.36H1114.31V840.92H1112.87V832.28H1114.31V830.84H1115.75V829.4H1118.63V827.96H1121.51V826.52H1125.83V825.08H1130.15V823.64H1134.47V815H1133.03V813.56H1131.59V812.12H1122.95V813.56H1121.51V815H1122.95V820.76H1121.51V822.2H1115.75V820.76H1114.31V815H1115.75V812.12H1117.19V810.68H1118.63V809.24H1122.95V807.8H1135.91V809.24H1138.79V810.68H1141.67V812.12H1143.11V816.44H1144.55V839.48H1148.87V840.92H1147.43V842.36H1145.99V843.8H1135.91V842.36H1134.47V839.48H1135.91V839.48ZM1128.71 839.48V838.04H1131.59V836.6H1133.03V835.16H1134.47V826.52H1130.15V827.96H1125.83V829.4H1124.39V830.84H1122.95V838.04H1125.83V839.48H1128.71V839.48ZM1148.87 839.48V838.04H1150.31V839.48H1148.87Z" fill="#FCEE21"/>
+<path class="jaune" d="M1171.91 843.8H1151.75V840.92H1156.07V838.04H1157.51V816.44H1156.07V813.56H1153.19V812.12H1151.75V810.68H1156.07V809.24H1161.83V807.8H1167.59V840.92H1171.91V843.8V843.8ZM1157.51 791.96H1167.59V802.04H1157.51V791.96Z" fill="#FCEE21"/>
+<path class="jaune" d="M1226.63 843.8H1192.07V842.36H1193.51V840.92H1194.95V838.04H1196.39V836.6H1197.83V835.16H1199.27V833.72H1200.71V830.84H1202.15V829.4H1203.59V827.96H1205.03V826.52H1206.47V823.64H1207.91V822.2H1209.35V820.76H1210.79V817.88H1212.23V816.44H1213.67V812.12H1215.11V800.6H1213.67V799.16H1212.23V797.72H1210.79V796.28H1203.59V797.72H1202.15V799.16H1200.71V803.48H1202.15V809.24H1200.71V810.68H1193.51V809.24H1192.07V802.04H1193.51V799.16H1194.95V797.72H1196.39V796.28H1199.27V794.84H1202.15V793.4H1217.99V794.84H1220.87V796.28H1222.31V797.72H1223.75V799.16H1225.19V800.6H1226.63V810.68H1225.19V813.56H1223.75V815H1222.31V817.88H1220.87V819.32H1219.43V820.76H1217.99V822.2H1216.55V823.64H1215.11V825.08H1212.23V826.52H1210.79V827.96H1209.35V829.4H1207.91V830.84H1206.47V832.28H1205.03V833.72H1203.59V835.16H1202.15V836.6H1200.71V838.04H1202.15V836.6H1217.99V835.16H1220.87V833.72H1222.31V832.28H1223.75V830.84H1225.19V827.96H1228.07V832.28H1226.63V843.8V843.8Z" fill="#FCEE21"/>
+<path class="jaune" d="M1255.43 845.24H1251.11V843.8H1245.35V842.36H1242.47V840.92H1241.03V839.48H1239.59V838.04H1238.15V836.6H1236.71V835.16H1235.27V832.28H1233.83V827.96H1232.39V809.24H1233.83V806.36H1235.27V803.48H1236.71V800.6H1238.15V799.16H1239.59V797.72H1241.03V796.28H1242.47V794.84H1245.35V793.4H1249.67V791.96H1253.99V793.4H1259.75V794.84H1262.63V796.28H1264.07V797.72H1265.51V799.16H1266.95V800.6H1268.39V802.04H1269.83V804.92H1271.27V809.24H1272.71V827.96H1271.27V832.28H1269.83V833.72H1268.39V836.6H1266.95V838.04H1265.51V839.48H1264.07V840.92H1262.63V842.36H1259.75V843.8H1255.43V845.24V845.24ZM1255.43 840.92V839.48H1256.87V838.04H1258.31V835.16H1259.75V830.84H1261.19V807.8H1259.75V803.48H1258.31V800.6H1256.87V797.72H1253.99V796.28H1249.67V797.72H1248.23V799.16H1246.79V800.6H1245.35V804.92H1243.91V829.4H1245.35V835.16H1246.79V836.6H1248.23V839.48H1251.11V840.92H1255.43V840.92Z" fill="#FCEE21"/>
+<path class="jaune" d="M1310.15 843.8H1275.59V842.36H1277.03V840.92H1278.47V838.04H1279.91V836.6H1281.35V835.16H1282.79V833.72H1284.23V830.84H1285.67V829.4H1287.11V827.96H1288.55V826.52H1289.99V823.64H1291.43V822.2H1292.87V820.76H1294.31V817.88H1295.75V816.44H1297.19V812.12H1298.63V800.6H1297.19V799.16H1295.75V797.72H1294.31V796.28H1287.11V797.72H1285.67V799.16H1284.23V803.48H1285.67V809.24H1284.23V810.68H1277.03V809.24H1275.59V802.04H1277.03V799.16H1278.47V797.72H1279.91V796.28H1282.79V794.84H1285.67V793.4H1301.51V794.84H1304.39V796.28H1305.83V797.72H1307.27V799.16H1308.71V800.6H1310.15V810.68H1308.71V813.56H1307.27V815H1305.83V817.88H1304.39V819.32H1302.95V820.76H1301.51V822.2H1300.07V823.64H1298.63V825.08H1295.75V826.52H1294.31V827.96H1292.87V829.4H1291.43V830.84H1289.99V832.28H1288.55V833.72H1287.11V835.16H1285.67V836.6H1284.23V838.04H1285.67V836.6H1301.51V835.16H1304.39V833.72H1305.83V832.28H1307.27V830.84H1308.71V827.96H1311.59V832.28H1310.15V843.8V843.8Z" fill="#FCEE21"/>
+<path class="jaune" d="M1349.03 843.8H1314.47V842.36H1315.91V840.92H1317.35V838.04H1318.79V836.6H1320.23V835.16H1321.67V833.72H1323.11V830.84H1324.55V829.4H1325.99V827.96H1327.43V826.52H1328.87V823.64H1330.31V822.2H1331.75V820.76H1333.19V817.88H1334.63V816.44H1336.07V812.12H1337.51V800.6H1336.07V799.16H1334.63V797.72H1333.19V796.28H1325.99V797.72H1324.55V799.16H1323.11V803.48H1324.55V809.24H1323.11V810.68H1315.91V809.24H1314.47V802.04H1315.91V799.16H1317.35V797.72H1318.79V796.28H1321.67V794.84H1324.55V793.4H1340.39V794.84H1343.27V796.28H1344.71V797.72H1346.15V799.16H1347.59V800.6H1349.03V810.68H1347.59V813.56H1346.15V815H1344.71V817.88H1343.27V819.32H1341.83V820.76H1340.39V822.2H1338.95V823.64H1337.51V825.08H1334.63V826.52H1333.19V827.96H1331.75V829.4H1330.31V830.84H1328.87V832.28H1327.43V833.72H1325.99V835.16H1324.55V836.6H1323.11V838.04H1324.55V836.6H1340.39V835.16H1343.27V833.72H1344.71V832.28H1346.15V830.84H1347.59V827.96H1350.47V832.28H1349.03V843.8V843.8Z" fill="#FCEE21"/>
+</g>
+
+
+
+
+
+
+
+
+<g id="titre">
+<rect class="bleu" id="bgtitre" width="1920" height="1080" fill="#123CD1"/>
+
+
+<g id="lettres">
+<g id="G">
+<rect class="jaune" id="Rectangle 9" x="60" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 10" x="60" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 11" x="60" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 12" x="40" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 13" x="40" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 14" x="60" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 15" x="80" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 16" x="80" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 17" x="80" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 18" x="80" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 19" x="80" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 20" x="100" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 21" x="100" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 22" x="120" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 23" x="140" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 24" x="160" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 25" x="40" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 26" x="60" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 28" x="60" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 30" x="80" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 32" x="100" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 34" x="140" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 27" x="80" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 29" x="80" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 31" x="100" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 33" x="120" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 35" x="160" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 36" x="180" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 37" x="160" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 49" x="200" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 50" x="200" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 51" x="200" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 38" x="180" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 39" x="200" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 40" x="220" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 41" x="240" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 42" x="200" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 43" x="220" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 44" x="220" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 45" x="200" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 46" x="200" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 47" x="220" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 48" x="220" y="460" width="20" height="20" fill="#FFF500"/>
+</g>
+<g id="Eaccent">
+<rect class="jaune" id="Rectangle 52" x="280" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 53" x="300" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 54" x="320" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 55" x="340" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 56" x="360" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 57" x="380" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 58" x="400" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 59" x="420" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 60" x="420" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 61" x="300" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 63" x="300" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 65" x="300" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 67" x="300" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 69" x="300" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 71" x="300" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 73" x="300" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 75" x="300" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 77" x="300" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 81" x="380" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 79" x="280" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 82" x="360" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 80" x="260" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 83" x="340" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 62" x="320" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 64" x="320" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 66" x="320" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 68" x="320" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 88" x="360" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 89" x="380" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 90" x="380" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 91" x="380" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 92" x="380" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 93" x="340" y="240" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 94" x="360" y="240" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 95" x="380" y="240" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 96" x="380" y="220" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 97" x="400" y="220" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 70" x="320" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 72" x="320" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 74" x="320" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 76" x="320" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 78" x="320" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 84" x="400" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 85" x="420" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 86" x="420" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 87" x="440" y="420" width="20" height="20" fill="#FFF500"/>
+</g>
+<g id="O">
+<rect class="jaune" id="Rectangle 98" x="460" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 134" x="660" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 101" x="480" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 122" x="620" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 107" x="500" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 123" x="640" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 106" x="480" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 124" x="620" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 137" x="600" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 139" x="600" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 140" x="580" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 141" x="560" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 142" x="540" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 143" x="520" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 144" x="520" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 145" x="500" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 108" x="500" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 125" x="640" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 138" x="620" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 99" x="460" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 135" x="660" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 102" x="480" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 126" x="620" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 109" x="500" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 127" x="640" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 104" x="480" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 128" x="620" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 110" x="500" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 129" x="640" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 100" x="460" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune"  id="Rectangle 136" x="660" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 103" x="480" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 130" x="620" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 111" x="500" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 131" x="640" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 105" x="480" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 132" x="620" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 112" x="500" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 133" x="640" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 113" x="500" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 114" x="520" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 115" x="520" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 116" x="540" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 118" x="580" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 117" x="560" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 119" x="600" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 120" x="600" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 121" x="620" y="300" width="20" height="20" fill="#FFF500"/>
+</g>
+<g id="M">
+<rect class="jaune" id="Rectangle 146" x="680" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 147" x="700" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 148" x="720" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 149" x="740" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 150" x="800" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 151" x="800" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 153" x="800" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 155" x="800" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 181" x="820" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 182" x="840" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 183" x="840" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 184" x="860" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 185" x="860" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 186" x="880" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 206" x="880" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 188" x="900" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 207" x="900" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 208" x="920" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 187" x="880" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 190" x="880" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 192" x="880" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 194" x="880" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 196" x="880" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 198" x="880" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 200" x="880" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 202" x="860" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 204" x="900" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 189" x="900" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 191" x="900" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 193" x="900" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 195" x="900" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 197" x="900" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 199" x="900" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 201" x="900" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 203" x="880" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 205" x="920" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 157" x="800" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 152" x="780" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 161" x="720" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 154" x="780" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 162" x="720" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 156" x="780" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 163" x="720" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 158" x="780" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 167" x="760" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 164" x="720" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 159" x="780" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 168" x="760" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 165" x="720" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 160" x="780" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 169" x="760" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 171" x="760" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 174" x="760" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 177" x="760" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 170" x="740" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 172" x="740" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 175" x="740" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 178" x="740" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 166" x="720" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 173" x="720" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 176" x="720" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 179" x="720" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 180" x="700" y="280" width="20" height="20" fill="#FFF500"/>
+</g>
+<g id="E">
+<rect class="jaune" id="Rectangle 209" x="960" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 212" x="1020" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 227" x="1020" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 231" x="1020" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 239" x="1020" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 235" x="1020" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 215" x="1080" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 221" x="1080" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 210" x="980" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 213" x="1040" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 216" x="1100" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 219" x="1140" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 220" x="1080" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 223" x="1080" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 211" x="1000" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 228" x="1000" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 232" x="1000" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 240" x="1000" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 236" x="1000" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 214" x="1060" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 222" x="1080" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 224" x="1060" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 225" x="1020" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 229" x="1020" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 233" x="1020" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 237" x="1020" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 242" x="1000" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 244" x="1060" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 247" x="1100" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 249" x="1120" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 241" x="1020" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 245" x="1080" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 248" x="1120" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 226" x="1000" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 230" x="1000" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 234" x="1000" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 238" x="1000" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 243" x="980" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 246" x="1040" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 217" x="1120" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 218" x="1120" y="440" width="20" height="20" fill="#FFF500"/>
+</g>
+<g id="T">
+<rect class="jaune" id="Rectangle 250" x="1160" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 251" x="1180" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 252" x="1200" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 253" x="1220" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 254" x="1240" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 265" x="1240" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 267" x="1240" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 269" x="1240" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 271" x="1240" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 273" x="1240" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 275" x="1240" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 277" x="1240" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 279" x="1240" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 281" x="1240" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 283" x="1200" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 255" x="1260" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 266" x="1260" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 268" x="1260" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 270" x="1260" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 272" x="1260" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 274" x="1260" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 276" x="1260" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 278" x="1260" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 280" x="1260" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 282" x="1260" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 285" x="1280" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 284" x="1220" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 256" x="1280" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 257" x="1300" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 258" x="1320" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 259" x="1340" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 262" x="1160" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 260" x="1340" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 263" x="1160" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 261" x="1340" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 264" x="1160" y="320" width="20" height="20" fill="#FFF500"/>
+</g>
+<g id="R">
+<rect class="jaune" id="Rectangle 286" x="1360" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 328" x="1520" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 333" x="1520" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 287" x="1380" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 329" x="1540" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 334" x="1540" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 288" x="1400" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 330" x="1560" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 291" x="1400" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 293" x="1400" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 297" x="1400" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 298" x="1400" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 300" x="1400" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 302" x="1400" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 304" x="1400" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 306" x="1400" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 308" x="1380" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 299" x="1420" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 301" x="1420" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 303" x="1420" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 305" x="1420" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 307" x="1420" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 309" x="1440" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 310" x="1460" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 311" x="1480" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 312" x="1500" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 313" x="1500" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 315" x="1500" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 317" x="1500" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 319" x="1500" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 321" x="1500" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 323" x="1500" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 325" x="1520" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 326" x="1520" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 327" x="1500" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 335" x="1500" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 320" x="1480" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 322" x="1480" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 324" x="1480" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 314" x="1520" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 316" x="1520" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 318" x="1520" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 295" x="1400" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 289" x="1420" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 331" x="1580" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 292" x="1420" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 294" x="1420" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 296" x="1420" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 290" x="1440" y="460" width="20" height="20" fill="#FFF500"/>
+</g>
+<g id="I">
+<rect class="jaune" id="Rectangle 336" x="1600" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 337" x="1620" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 340" x="1620" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 342" x="1620" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 344" x="1620" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 346" x="1620" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 348" x="1620" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 350" x="1620" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 352" x="1620" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 354" x="1620" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 356" x="1620" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 359" x="1660" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 358" x="1600" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 338" x="1640" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 341" x="1640" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 343" x="1640" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 345" x="1640" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 347" x="1640" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 349" x="1640" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 351" x="1640" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 353" x="1640" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 355" x="1640" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 357" x="1640" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 360" x="1680" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 339" x="1660" y="460" width="20" height="20" fill="#FFF500"/>
+</g>
+<g id="C">
+<rect class="jaune" id="Rectangle 361" x="1760" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 366" x="1760" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 369" x="1740" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 372" x="1740" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 374" x="1740" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 376" x="1740" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 378" x="1740" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 380" x="1740" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 383" x="1740" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 382" x="1760" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 384" x="1760" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 385" x="1760" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 386" x="1780" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 387" x="1800" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 388" x="1820" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 390" x="1860" y="280" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 391" x="1860" y="300" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 392" x="1860" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 368" x="1740" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 370" x="1720" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 373" x="1720" y="400" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 375" x="1720" y="380" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 377" x="1720" y="360" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 379" x="1720" y="340" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 381" x="1720" y="320" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 362" x="1780" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 367" x="1780" y="440" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 371" x="1760" y="420" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 363" x="1800" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 364" x="1820" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 365" x="1840" y="460" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 389" x="1860" y="440" width="20" height="20" fill="#FFF500"/>
+</g>
+<g id="W">
+<rect class="jaune" id="Rectangle 393" x="380" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 394" x="380" y="800" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 396" x="380" y="780" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 401" x="380" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 403" x="380" y="740" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 405" x="380" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 400" x="360" y="780" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 445" x="540" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 446" x="540" y="700" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 447" x="560" y="680" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 448" x="560" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 449" x="560" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 450" x="580" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 402" x="360" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 404" x="360" y="740" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 406" x="360" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 408" x="360" y="700" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 410" x="360" y="680" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 420" x="460" y="680" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 413" x="360" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 421" x="460" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 428" x="480" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 416" x="360" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 422" x="460" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 429" x="480" y="700" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 407" x="340" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 409" x="340" y="700" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 411" x="340" y="680" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 423" x="440" y="680" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 414" x="340" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 424" x="440" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 430" x="460" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 434" x="480" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 440" x="480" y="780" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 442" x="480" y="800" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 438" x="520" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 417" x="340" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 425" x="440" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 431" x="460" y="700" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 435" x="480" y="740" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 412" x="320" y="680" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 415" x="320" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 426" x="420" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 432" x="440" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 436" x="460" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 439" x="500" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 441" x="500" y="780" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 444" x="500" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 443" x="500" y="800" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 418" x="320" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 427" x="420" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 433" x="440" y="700" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 437" x="460" y="740" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 419" x="300" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 395" x="400" y="800" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 397" x="400" y="780" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 398" x="420" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 399" x="420" y="740" width="20" height="20" fill="#FFF500"/>
+</g>
+<g id="A">
+<rect class="jaune" id="Rectangle 451" x="560" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 452" x="580" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 454" x="580" y="800" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 455" x="600" y="780" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 456" x="600" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 457" x="620" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 463" x="700" y="780" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 465" x="700" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 469" x="740" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 460" x="680" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 478" x="660" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 480" x="640" y="680" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 487" x="620" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 482" x="660" y="680" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 484" x="680" y="680" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 472" x="680" y="740" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 479" x="660" y="700" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 481" x="640" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 483" x="660" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 486" x="660" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 485" x="680" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 474" x="680" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 476" x="680" y="700" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 458" x="640" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 464" x="720" y="780" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 466" x="720" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 470" x="760" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 461" x="700" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 473" x="700" y="740" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 475" x="700" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 477" x="700" y="700" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 467" x="700" y="800" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 471" x="740" y="800" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 459" x="660" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 462" x="720" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 468" x="720" y="800" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 453" x="600" y="820" width="20" height="20" fill="#FFF500"/>
+</g>
+<g id="V">
+<rect class="jaune" id="Rectangle 488" x="840" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 489" x="840" y="800" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 491" x="840" y="780" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 501" x="860" y="780" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 493" x="840" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 495" x="840" y="740" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 513" x="880" y="740" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 514" x="900" y="700" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 515" x="900" y="680" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 516" x="920" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 517" x="920" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 519" x="940" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 518" x="900" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 497" x="820" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 499" x="820" y="700" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 490" x="820" y="800" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 492" x="820" y="780" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 494" x="820" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 496" x="820" y="740" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 502" x="800" y="740" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 498" x="800" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 500" x="800" y="700" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 504" x="800" y="680" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 506" x="800" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 508" x="800" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 503" x="780" y="700" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 505" x="780" y="680" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 507" x="780" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 510" x="760" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 509" x="780" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 511" x="760" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 512" x="740" y="640" width="20" height="20" fill="#FFF500"/>
+</g>
+<g id="E2">
+<rect class="jaune" id="Rectangle 520" x="960" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 523" x="1020" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 536" x="1020" y="800" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 538" x="1020" y="780" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 540" x="1020" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 542" x="1020" y="740" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 544" x="1020" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 546" x="1020" y="700" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 548" x="1020" y="680" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 550" x="1020" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 552" x="1020" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 555" x="1040" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 556" x="1060" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 557" x="1080" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 558" x="1100" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 559" x="1120" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 560" x="1120" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 526" x="1080" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 521" x="980" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 524" x="1040" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 527" x="1100" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 529" x="1120" y="800" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 530" x="1140" y="780" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 531" x="1080" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 532" x="1080" y="740" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 533" x="1080" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 535" x="1060" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 534" x="1080" y="700" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 522" x="1000" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 537" x="1000" y="800" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 539" x="1000" y="780" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 541" x="1000" y="760" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 543" x="1000" y="740" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 545" x="1000" y="720" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 547" x="1000" y="700" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 549" x="1000" y="680" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 551" x="1000" y="660" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 553" x="1000" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 554" x="980" y="640" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 525" x="1060" y="820" width="20" height="20" fill="#FFF500"/>
+<rect class="jaune" id="Rectangle 528" x="1120" y="820" width="20" height="20" fill="#FFF500"/>
+</g>
+</g>
+
+</g>
+</svg>
